@@ -323,12 +323,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501260253251">
+      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501260941726">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/projects/motofirma/motofirma/src/Application/src/Model/Offer/Form/Step2.php" timestamp="1491034563415">
         <mark key="[" line="39" column="40" />
@@ -1121,17 +1121,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHJtIFJFQURNRS5tZAo=</text>
+      <register name="&quot;" type="4">
+        <text>rabbit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERvY2tlcmZpbGU=</text>
+        <text>rabbit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgQml0QmF5ID0gcmVxdWlyZSgnLi4vbGliL2V4Y2hhbmdlL2JpdC1iYXknKTsKY29uc3QgQml0TWFya2V0ID0gcmVxdWlyZSgnLi4vbGliL2V4Y2hhbmdlL2JpdC1tYXJrZXQnKTsKY29uc3QgQml0TWFzenluYSA9IHJlcXVpcmUoJy4uL2xpYi9leGNoYW5nZS9iaXQtbWFzenluYScpOwoKbW9kdWxlLmV4cG9ydHMgPSB7CiAgbWFya2V0czogWwogICAgJ0JUQy9QTE4nLAogIF0sCiAgZXhjaGFuZ2VzOiBbCiAgICB7CiAgICAgIGlkOiAnYml0YmF5Lm5ldCcsCiAgICAgIENvbnN0cnVjdDogQml0QmF5LAogICAgICBtYXJrZXRzOiBbJ0JUQy9QTE4nXSwKICAgICAgdXJpVGVtcGxhdGU6ICdodHRwczovL2JpdGJheS5uZXQvQVBJL1B1YmxpYy97TUFSS0VUfS9vcmRlcmJvb2suanNvbicsCiAgICB9LAogICAgewogICAgICBpZDogJ2JpdG1hcmtldC5wbCcsCiAgICAgIENvbnN0cnVjdDogQml0TWFya2V0LAogICAgICBtYXJrZXRzOiBbJ0JUQy9QTE4nXSwKICAgICAgdXJpVGVtcGxhdGU6ICdodHRwczovL2JpdG1hcmtldC5wbC9qc29uL3tNQVJLRVR9L29yZGVyYm9vay5qc29uJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiAnYml0bWFzenluYS5wbCcsCiAgICAgIENvbnN0cnVjdDogQml0TWFzenluYSwKICAgICAgbWFya2V0czogWydCVEMvUExOJ10sCiAgICAgIHVyaVRlbXBsYXRlOiAnaHR0cHM6Ly9iaXRtYXN6eW5hLnBsL2FwaS97TUFSS0VUfS9kZXB0aFNpbXBsZS5qc29uJywKICAgIH0sCiAgXSwKICBwdWJsaXNoZXI6IHsKICAgIGFtcXA6IHsKICAgICAgZHNuOiAnYW1xcDovL2d1ZXN0Omd1ZXN0QGxvY2FsaG9zdCcsCiAgICB9LAogICAgZXhjaGFuZ2U6ICd0aWNrLWV4Y2hhbmdlJywKICAgIHJvdXRpbmdLZXk6ICd0aWNrJywKICB9LAp9Owo=</text>
+        <text encoding="base64">ICAgICAgLSByYWJiaXQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UlVOIHJtIFJFQURNRS5tZAo=</text>
