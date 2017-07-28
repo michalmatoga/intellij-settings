@@ -323,12 +323,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501260941726">
+      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501261014859">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="16" column="11" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/projects/motofirma/motofirma/src/Application/src/Model/Offer/Form/Step2.php" timestamp="1491034563415">
         <mark key="[" line="39" column="40" />
@@ -756,9 +756,9 @@
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/thoth/docker-compose.yml" timestamp="1501176221537">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="8" />
+      <file name="$USER_HOME$/projects/mad-sweeney/thoth/docker-compose.yml" timestamp="1501260994515">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="19" />
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="18" />
       </file>
@@ -1122,16 +1122,16 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>rabbit</text>
+        <text encoding="base64">IGdpdEBnaXRodWIuY29tOm1pY2hhbG1hdG9nYS9pbnRlbGxpai1zZXR0aW5ncy5naXQ=</text>
       </register>
       <register name="-" type="4">
-        <text>rabbit</text>
+        <text encoding="base64">IGdpdEBnaXRodWIuY29tOm1pY2hhbG1hdG9nYS9pbnRlbGxpai1zZXR0aW5ncy5naXQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSByYWJiaXQK</text>
+      <register name="0" type="4">
+        <text>27017</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">UlVOIHJtIFJFQURNRS5tZAo=</text>
