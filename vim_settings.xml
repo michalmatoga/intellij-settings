@@ -121,12 +121,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" timestamp="1501231263318">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" timestamp="1501240154021">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="16" />
-        <mark key="^" line="96" column="16" />
-        <mark key="." line="96" column="16" />
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="97" column="22" />
+        <mark key="^" line="97" column="22" />
+        <mark key="." line="97" column="22" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/amqp/consumer.js" timestamp="1500966861618">
         <mark key="'" line="6" column="0" />
@@ -421,8 +421,8 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" timestamp="1501225326867">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" timestamp="1501240199690">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
@@ -665,12 +665,12 @@
         <mark key="^" line="36" column="29" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501229639202">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="38" column="32" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501240521055">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/tmp.sh" timestamp="1497876104925">
         <mark key="[" line="0" column="19" />
@@ -751,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/video.js" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/shasum.js" />
       <jump line="24" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker-factory.js" />
@@ -851,46 +850,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="54" column="6" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>codecPreset</text>
+        <text>low</text>
       </register>
       <register name="-" type="4">
-        <text>codecPreset</text>
+        <text>low</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
-      <register name="0" type="4">
-        <text>git+ssh://git@github.schibsted.io:svp/yats-fs#v0.2.5</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvdzogJ252ZW5jIC1wcmVzZXQgaHEgLXBpeF9mbXQgbnYxMicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJy1yZXBvcnQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5wbSBpIGdpdCtzc2g6Ly9naXRAZ2l0aHViLnNjaGlic3RlZC5pbzpzdnAveWF0cy1mcyN2MC4yLjUgLS1zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgJy1yZXBvcnQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYXVkaW9MaWJyYXJ5TWFwID0gewogIGgyNjQ6ICdsaWJ4MjY0JywKfTsK</text>
+        <text encoding="base64">ICAgIG5wbSBpIGdpdCtzc2g6Ly9naXRAZ2l0aHViLnNjaGlic3RlZC5pbzpzdnAveWF0cy1mcyN2MC4yLjUgLS1zYXZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGEgPSBgLWM6diAke2NvZGVjTGlicmFyeU1hcFt2aWRlby5jb2RlY119YDsK</text>
+        <text encoding="base64">Y29uc3QgYXVkaW9MaWJyYXJ5TWFwID0gewogIGgyNjQ6ICdsaWJ4MjY0JywKfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtczogewogICAgICAvLyB3aWR0aDogNDgwLAogICAgICAvLyBoZWlnaHQ6IDI3MCwKICAgICAga2Jwc19hOiA2NCwKICAgICAga2Jwc192OiA1MDAsCiAgICAgIHByb2ZpbGVfdjogJ2Jhc2VsaW5lJywKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSBgLWM6diAke2NvZGVjTGlicmFyeU1hcFt2aWRlby5jb2RlY119YDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJy1jOmEgbGliZmRrX2FhYycsIC8vIGF1ZGlvIGNvZGVjCiAgICAgIGAtYjphICR7dlBhcmFtcy5rYnBzX2F9a2AsIC8vIGF1ZGlvIGJpdHJhdGUKICAgICAgJy1hciA0NDEwMCcsIC8vIGF1ZGlvIHNhbXBsaW5nIGZyZXF1ZW5jeQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtczogewogICAgICAvLyB3aWR0aDogNDgwLAogICAgICAvLyBoZWlnaHQ6IDI3MCwKICAgICAga2Jwc19hOiA2NCwKICAgICAga2Jwc192OiA1MDAsCiAgICAgIHByb2ZpbGVfdjogJ2Jhc2VsaW5lJywKICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJmbGFjIgo=</text>
+        <text encoding="base64">ICAgICAgJy1jOmEgbGliZmRrX2FhYycsIC8vIGF1ZGlvIGNvZGVjCiAgICAgIGAtYjphICR7dlBhcmFtcy5rYnBzX2F9a2AsIC8vIGF1ZGlvIGJpdHJhdGUKICAgICAgJy1hciA0NDEwMCcsIC8vIGF1ZGlvIHNhbXBsaW5nIGZyZXF1ZW5jeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvZGVjIjogewogICAgICAgICAgICAgICJtaW5MZW5ndGgiOiAxLAogICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJmbGFjIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhYWM6ICdsaWJmZGtfYWFjJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvZGVjIjogewogICAgICAgICAgICAgICJtaW5MZW5ndGgiOiAxLAogICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
