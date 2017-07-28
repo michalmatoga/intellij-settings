@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Files" type="PHP" />
+      <mapping ext="php_cs" type="PHP" />
+      <mapping pattern="notworking-config" type="PLAIN_TEXT" />
+      <mapping pattern="distributor.json" type="PLAIN_TEXT" />
+      <mapping pattern="Rakefile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".slate" type="PLAIN_TEXT" />
+      <mapping pattern="ghebot_id" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern="lab" type="PLAIN_TEXT" />
+      <mapping pattern="working-config" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="oauth_token" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="php-dist" type="PLAIN_TEXT" />
+      <mapping ext="phpty0fnx" type="PLAIN_TEXT" />
+      <mapping ext="good" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="bad" type="PLAIN_TEXT" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

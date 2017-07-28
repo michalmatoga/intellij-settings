@@ -1,0 +1,22 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Compare.SameVersion">
+        <abbreviation name="gdiff" />
+      </action>
+      <action id="editRunConfigurations">
+        <abbreviation name="ec" />
+      </action>
+      <action id="Tool_External Tools_PHP CS Fixer">
+        <abbreviation name="csf" />
+      </action>
+      <action id="FrameSwitchAction" />
+      <action id="Compare.LastVersion">
+        <abbreviation name="diff" />
+      </action>
+      <action id="Git.Branches">
+        <abbreviation name="bcs" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

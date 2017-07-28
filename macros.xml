@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="78:0;67:0;65:0;91:1">nca{</typing>
+      <action id="VimShortcutKeyAction" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
+  </component>
+</application>

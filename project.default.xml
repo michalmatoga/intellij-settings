@@ -1,0 +1,113 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="PSR2" />
+          </inspection_tool>
+          <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="DOWNGRADE_SEVERITY" value="true" />
+          </inspection_tool>
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="NONE" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="false" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="true" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="true" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.generator" providerName="JavaFx HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.css" providerName="Default JavaFx Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state />
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="upsource.project.settings" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v8.0.0/bin/node" />
+      </component>
+      <component name="UpsourceProjectSettings">
+        <option name="disableSslValidation" value="true" />
+        <option name="upsourceUrl" value="http://zochan-desktop:8080/" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

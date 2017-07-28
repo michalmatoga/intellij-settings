@@ -1,0 +1,40 @@
+<keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="AceJumpLineAction">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FrameSwitchAction">
+    <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Upsource.CreateOrShowDiscussion">
+    <keyboard-shortcut first-keystroke="meta alt quote" />
+  </action>
+  <action id="VimInsertExitMode">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+</keymap>
