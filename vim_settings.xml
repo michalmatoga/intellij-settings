@@ -728,11 +728,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501345800009">
-        <mark key="'" line="32" column="28" />
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+        <mark key="'" line="31" column="28" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/projects/mgr/tex/build_figures.sh" timestamp="1486802886632">
         <mark key="[" line="7" column="76" />
