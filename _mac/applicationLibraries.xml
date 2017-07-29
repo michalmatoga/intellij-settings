@@ -35,6 +35,12 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="R Skeletons">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/PhpStorm2017.1/r_skeletons/1481726564" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="sinon-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
