@@ -115,12 +115,12 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/thoth/index.js" timestamp="1501335372925">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/mad-sweeney/thoth/index.js" timestamp="1501338211435">
+        <mark key="'" line="40" column="2" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/projects/mgr/octave/texttest.m" timestamp="1491590805690">
         <mark key="[" line="10" column="0" />
@@ -804,7 +804,7 @@
       <file name="/PHP Console" timestamp="1492100478647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501331618927">
+      <file name="/JavaScript Console" timestamp="1501336681698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mgr/octave/seria1.m" timestamp="1492102255181">
@@ -841,7 +841,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501331919371">
+      <file name="/Dummy.txt" timestamp="1501338420668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myoplot/public/index.html" timestamp="1496858992102">
@@ -1031,18 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile" />
-      <jump line="9" column="17" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="1" column="8" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="37" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="33" column="13" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="5" column="5" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="48" column="97" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile.env" />
       <jump line="8" column="74" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile.env" />
       <jump line="43" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile.env" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile.env" />
@@ -1083,7 +1071,6 @@
       <jump line="10" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
       <jump line="3" column="1" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/arbiter/environment/mongo/Dockerfile" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="19" column="2" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
@@ -1131,16 +1118,29 @@
       <jump line="31" column="28" filename="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="18" column="30" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="44" column="22" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="15" column="17" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="34" column="35" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>message.moment.format()</text>
+        <text>(err)</text>
       </register>
       <register name="-" type="4">
-        <text>message.moment.format()</text>
+        <text>(err)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
@@ -1148,32 +1148,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5hd2FpdGluZ01lc3NhZ2VzLnB1c2gobWVzc2FnZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uTWVzc2FnZSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ID0+IHsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgIHJldHVybiBjb25zb2xlLmVycm9yKGVyci5tZXNzYWdlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gY29uc29sZS5sb2coYHNhdmVkICR7ZXhjaGFuZ2UuaWR9IGRhdGEgZm9yICR7aW5jb21pbmdEYXRhLnRpbWV9IGF0ICR7bW9tZW50KCkuZm9ybWF0KCl9YCk7CiAgICAgICAgICB9KTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYW1xcCA9IHJlcXVpcmUoJ2FtcXBsaWInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbW9tZW50ID0gbW9tZW50KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgICAgdGltZTogeyB0eXBlOiBOdW1iZXIsIGluZGV4OiB0cnVlIH0sCiAgICAgIG1hcmtldDogeyB0eXBlOiBTdHJpbmcsIGluZGV4OiB0cnVlIH0sCiAgICAgIGFza3M6IEFycmF5LAogICAgICBiaWRzOiBBcnJheSwKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmNvbWluZ0RhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIG1vbmdvb3NlLmNvbm5lY3Rpb24ub24oJ2Vycm9yJywgKGVycikgPT4gewogICAgICBjb25zb2xlLmxvZyhlcnIubWVzc2FnZSk7CiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFtcXBDb25uZWN0aW9uID0gYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5jb25zdW1lci5hbXFwLmRzbik7CiAgICBjb25zdCBhbXFwQ2hhbm5lbCA9IGF3YWl0IGFtcXBDb25uZWN0aW9uLmNyZWF0ZUNoYW5uZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBhbXFwQ29ubmVjdGlvbiA9IGF3YWl0IGFtcXAuY29ubmVjdChjb25maWcuY29uc3VtZXIuYW1xcC5kc24pOwogIGNvbnN0IGFtcXBDaGFubmVsID0gYXdhaXQgYW1xcENvbm5lY3Rpb24uY3JlYXRlQ2hhbm5lbCgpOwogIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwogIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgIHRpbWU6IHsgdHlwZTogTnVtYmVyLCBpbmRleDogdHJ1ZSB9LAogICAgbWFya2V0OiB7IHR5cGU6IFN0cmluZywgaW5kZXg6IHRydWUgfSwKICAgIGFza3M6IEFycmF5LAogICAgYmlkczogQXJyYXksCiAgfSk7CiAgYW1xcENoYW5uZWwuY29uc3VtZShjb25maWcuY29uc3VtZXIucXVldWUsIChtc2cpID0+IHsKICAgIGNvbnN0IGluY29taW5nRGF0YSA9IEpTT04ucGFyc2UobXNnLmNvbnRlbnQpOwogICAgaW5jb21pbmdEYXRhLmV4Y2hhbmdlcy5mb3JFYWNoKChleGNoYW5nZSkgPT4gewogICAgICBjb25zdCBEZXB0aCA9IG1vbmdvb3NlLm1vZGVsKGAke2V4Y2hhbmdlLmlkfV9kZXB0aHNgLCBkZXB0aFNjaGVtYSk7CiAgICAgIGNvbnN0IGRlcHRoID0gbmV3IERlcHRoKHsKICAgICAgICB0aW1lOiBtb21lbnQoaW5jb21pbmdEYXRhLnRpbWUpLnVuaXgoKSwKICAgICAgICBtYXJrZXQ6IGluY29taW5nRGF0YS5tYXJrZXQsCiAgICAgICAgYXNrczogZXhjaGFuZ2UuYXNrcywKICAgICAgICBiaWRzOiBleGNoYW5nZS5iaWRzLAogICAgICB9KTsKICAgICAgZGVwdGguc2F2ZSgpOwogICAgfSk7CiAgICBhbXFwQ2hhbm5lbC5hY2sobXNnKTsKICB9KTsKICBjb25zb2xlLmxvZygnVGhvdGggc3RhcnRlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zdCBkZXB0aFNjaGVtYSA9IG1vbmdvb3NlLlNjaGVtYSh7CiAgICB0aW1lOiB7IHR5cGU6IE51bWJlciwgaW5kZXg6IHRydWUgfSwKICAgIG1hcmtldDogeyB0eXBlOiBTdHJpbmcsIGluZGV4OiB0cnVlIH0sCiAgICBhc2tzOiBBcnJheSwKICAgIGJpZHM6IEFycmF5LAogIH0pOwogIGNvbnN0IGFtcXBNYW5hZ2VyID0gbmV3IEFtcXBNYW5hZ2VyKCk7CiAgYW1xcE1hbmFnZXIub24oJ2Nvbm5lY3QnLCBhc3luYyAoYW1xcENoYW5uZWwpID0+IHsKICAgIGFtcXBDaGFubmVsLmNvbnN1bWUoY29uZmlnLmNvbnN1bWVyLnF1ZXVlLCAobXNnKSA9PiB7CiAgICAgIGNvbnN0IGluY29taW5nRGF0YSA9IEpTT04ucGFyc2UobXNnLmNvbnRlbnQpOwogICAgICBjb25zb2xlLmxvZyhpbmNvbWluZ0RhdGEpOwogICAgICBpbmNvbWluZ0RhdGEuZXhjaGFuZ2VzLmZvckVhY2goKGV4Y2hhbmdlKSA9PiB7CiAgICAgICAgY29uc3QgRGVwdGggPSBtb25nb29zZS5tb2RlbChgJHtleGNoYW5nZS5pZH1fZGVwdGhzYCwgZGVwdGhTY2hlbWEpOwogICAgICAgIGNvbnN0IGRlcHRoID0gbmV3IERlcHRoKHsKICAgICAgICAgIHRpbWU6IG1vbWVudChpbmNvbWluZ0RhdGEudGltZSkudW5peCgpLAogICAgICAgICAgbWFya2V0OiBpbmNvbWluZ0RhdGEubWFya2V0LAogICAgICAgICAgYXNrczogZXhjaGFuZ2UuYXNrcywKICAgICAgICAgIGJpZHM6IGV4Y2hhbmdlLmJpZHMsCiAgICAgICAgfSk7CiAgICAgICAgZGVwdGguc2F2ZSgpOwogICAgICB9KTsKICAgICAgYW1xcENoYW5uZWwuYWNrKG1zZyk7CiAgICB9KTsKICAgIGNvbnNvbGUubG9nKCdUaG90aCBzdGFydGVkJyk7CiAgfSk7CiAgYW1xcE1hbmFnZXIuaW5pdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyKTsKICAgIHNldFRpbWVvdXQoaW5pdCwgNTAwMCk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
