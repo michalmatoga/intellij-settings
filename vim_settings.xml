@@ -193,6 +193,12 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501319871158">
+        <mark key="'" line="7" column="9" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/package-lock.json" timestamp="1501171093398">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="17" />
@@ -238,12 +244,12 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501319197031">
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501319975184">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/deploy.sh" timestamp="1500578216983">
         <mark key="[" line="0" column="19" />
@@ -810,7 +816,7 @@
       <file name="/PHP Console" timestamp="1492100478647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501318493412">
+      <file name="/JavaScript Console" timestamp="1501319905012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mgr/octave/seria1.m" timestamp="1492102255181">
@@ -1037,7 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/projects/arbiter/lib/scheduler.js" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/arbiter/lib/scheduler/live-scheduler.js" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/arbiter/lib/scheduler/live-scheduler.js" />
       <jump line="9" column="4" filename="$USER_HOME$/projects/arbiter/lib/scheduler/scheduler.js" />
@@ -1137,49 +1142,50 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/motofirma/motofirma/scripts/sync_offers.php" />
       <jump line="11" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBhbXFwQ29ubmVjdGlvbiA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>AmqpManager</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>AmqpManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFtcXBDb25uZWN0aW9uID0gYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5wdWJsaXNoZXIuYW1xcC5kc24pOwo=</text>
+      <register name="0" type="4">
+        <text>AmqpManager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBhbXFwQ29ubmVjdGlvbiA9IAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGVtaXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gYW1xcENvbm5lY3Rpb247Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgYW1xcENvbm5lY3Rpb247Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldFQKICAgIGNvbnNvbGUubG9nKGUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5wdWJsaXNoZXIuYW1xcC5kc24pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgYW1xcENvbm5lY3Rpb247CiAgdHJ5IHsKICAgIGFtcXBDb25uZWN0aW9uID0gYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5wdWJsaXNoZXIuYW1xcC5kc24pOwogIH0gY2F0Y2ggKGUpIHsKICAgIHNldFQKICAgIGNvbnNvbGUubG9nKGUpOwogIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YW1xcE1hbmFnZXIuaW5pdCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGV0IGFtcXBDb25uZWN0aW9uOwphc3luYyBmdW5jdGlvbiBhbXFwQ29ubmVjdCgpIHsKfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0cnkge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
