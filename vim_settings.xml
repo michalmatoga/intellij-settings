@@ -750,8 +750,8 @@
         <mark key="." line="53" column="62" />
         <mark key="^" line="53" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" timestamp="1501334117068">
-        <mark key="'" line="56" column="0" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" timestamp="1501335605157">
+        <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
@@ -952,12 +952,12 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501333129048">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="86" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501335634769">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/.dockerignore" timestamp="1500729119968">
         <mark key="[" line="0" column="1" />
@@ -1031,8 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
-      <jump line="45" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile" />
       <jump line="9" column="17" filename="$USER_HOME$/projects/mad-sweeney/horus/Dockerfile" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
@@ -1131,16 +1129,18 @@
       <jump line="16" column="15" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="30" column="14" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="31" column="28" filename="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgYW1xcCA9IHJlcXVpcmUoJ2FtcXBsaWInKTsK</text>
+      <register name="&quot;" type="4">
+        <text>message.moment.format()</text>
       </register>
       <register name="-" type="4">
-        <text>ce</text>
+        <text>message.moment.format()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
@@ -1149,31 +1149,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5hd2FpdGluZ01lc3NhZ2VzLnB1c2gobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYW1xcCA9IHJlcXVpcmUoJ2FtcXBsaWInKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhqc29uTWVzc2FnZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgICAgdGltZTogeyB0eXBlOiBOdW1iZXIsIGluZGV4OiB0cnVlIH0sCiAgICAgIG1hcmtldDogeyB0eXBlOiBTdHJpbmcsIGluZGV4OiB0cnVlIH0sCiAgICAgIGFza3M6IEFycmF5LAogICAgICBiaWRzOiBBcnJheSwKICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgYW1xcCA9IHJlcXVpcmUoJ2FtcXBsaWInKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgICAgdGltZTogeyB0eXBlOiBOdW1iZXIsIGluZGV4OiB0cnVlIH0sCiAgICAgIG1hcmtldDogeyB0eXBlOiBTdHJpbmcsIGluZGV4OiB0cnVlIH0sCiAgICAgIGFza3M6IEFycmF5LAogICAgICBiaWRzOiBBcnJheSwKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFtcXBDb25uZWN0aW9uID0gYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5jb25zdW1lci5hbXFwLmRzbik7CiAgICBjb25zdCBhbXFwQ2hhbm5lbCA9IGF3YWl0IGFtcXBDb25uZWN0aW9uLmNyZWF0ZUNoYW5uZWwoKTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBhbXFwQ29ubmVjdGlvbiA9IGF3YWl0IGFtcXAuY29ubmVjdChjb25maWcuY29uc3VtZXIuYW1xcC5kc24pOwogIGNvbnN0IGFtcXBDaGFubmVsID0gYXdhaXQgYW1xcENvbm5lY3Rpb24uY3JlYXRlQ2hhbm5lbCgpOwogIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwogIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgIHRpbWU6IHsgdHlwZTogTnVtYmVyLCBpbmRleDogdHJ1ZSB9LAogICAgbWFya2V0OiB7IHR5cGU6IFN0cmluZywgaW5kZXg6IHRydWUgfSwKICAgIGFza3M6IEFycmF5LAogICAgYmlkczogQXJyYXksCiAgfSk7CiAgYW1xcENoYW5uZWwuY29uc3VtZShjb25maWcuY29uc3VtZXIucXVldWUsIChtc2cpID0+IHsKICAgIGNvbnN0IGluY29taW5nRGF0YSA9IEpTT04ucGFyc2UobXNnLmNvbnRlbnQpOwogICAgaW5jb21pbmdEYXRhLmV4Y2hhbmdlcy5mb3JFYWNoKChleGNoYW5nZSkgPT4gewogICAgICBjb25zdCBEZXB0aCA9IG1vbmdvb3NlLm1vZGVsKGAke2V4Y2hhbmdlLmlkfV9kZXB0aHNgLCBkZXB0aFNjaGVtYSk7CiAgICAgIGNvbnN0IGRlcHRoID0gbmV3IERlcHRoKHsKICAgICAgICB0aW1lOiBtb21lbnQoaW5jb21pbmdEYXRhLnRpbWUpLnVuaXgoKSwKICAgICAgICBtYXJrZXQ6IGluY29taW5nRGF0YS5tYXJrZXQsCiAgICAgICAgYXNrczogZXhjaGFuZ2UuYXNrcywKICAgICAgICBiaWRzOiBleGNoYW5nZS5iaWRzLAogICAgICB9KTsKICAgICAgZGVwdGguc2F2ZSgpOwogICAgfSk7CiAgICBhbXFwQ2hhbm5lbC5hY2sobXNnKTsKICB9KTsKICBjb25zb2xlLmxvZygnVGhvdGggc3RhcnRlZCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFtcXBDb25uZWN0aW9uID0gYXdhaXQgYW1xcC5jb25uZWN0KGNvbmZpZy5jb25zdW1lci5hbXFwLmRzbik7CiAgICBjb25zdCBhbXFwQ2hhbm5lbCA9IGF3YWl0IGFtcXBDb25uZWN0aW9uLmNyZWF0ZUNoYW5uZWwoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBjb25zdCBhbXFwQ29ubmVjdGlvbiA9IGF3YWl0IGFtcXAuY29ubmVjdChjb25maWcuY29uc3VtZXIuYW1xcC5kc24pOwogIGNvbnN0IGFtcXBDaGFubmVsID0gYXdhaXQgYW1xcENvbm5lY3Rpb24uY3JlYXRlQ2hhbm5lbCgpOwogIGF3YWl0IG1vbmdvb3NlLmNvbm5lY3QoY29uZmlnLm1vbmdvLmRzbiwgY29uZmlnLm1vbmdvLm9wdGlvbnMpOwogIGNvbnN0IGRlcHRoU2NoZW1hID0gbW9uZ29vc2UuU2NoZW1hKHsKICAgIHRpbWU6IHsgdHlwZTogTnVtYmVyLCBpbmRleDogdHJ1ZSB9LAogICAgbWFya2V0OiB7IHR5cGU6IFN0cmluZywgaW5kZXg6IHRydWUgfSwKICAgIGFza3M6IEFycmF5LAogICAgYmlkczogQXJyYXksCiAgfSk7CiAgYW1xcENoYW5uZWwuY29uc3VtZShjb25maWcuY29uc3VtZXIucXVldWUsIChtc2cpID0+IHsKICAgIGNvbnN0IGluY29taW5nRGF0YSA9IEpTT04ucGFyc2UobXNnLmNvbnRlbnQpOwogICAgaW5jb21pbmdEYXRhLmV4Y2hhbmdlcy5mb3JFYWNoKChleGNoYW5nZSkgPT4gewogICAgICBjb25zdCBEZXB0aCA9IG1vbmdvb3NlLm1vZGVsKGAke2V4Y2hhbmdlLmlkfV9kZXB0aHNgLCBkZXB0aFNjaGVtYSk7CiAgICAgIGNvbnN0IGRlcHRoID0gbmV3IERlcHRoKHsKICAgICAgICB0aW1lOiBtb21lbnQoaW5jb21pbmdEYXRhLnRpbWUpLnVuaXgoKSwKICAgICAgICBtYXJrZXQ6IGluY29taW5nRGF0YS5tYXJrZXQsCiAgICAgICAgYXNrczogZXhjaGFuZ2UuYXNrcywKICAgICAgICBiaWRzOiBleGNoYW5nZS5iaWRzLAogICAgICB9KTsKICAgICAgZGVwdGguc2F2ZSgpOwogICAgfSk7CiAgICBhbXFwQ2hhbm5lbC5hY2sobXNnKTsKICB9KTsKICBjb25zb2xlLmxvZygnVGhvdGggc3RhcnRlZCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
