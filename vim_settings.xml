@@ -706,6 +706,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501332257944">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/mgr/tex/build_figures.sh" timestamp="1486802886632">
         <mark key="[" line="7" column="76" />
         <mark key="]" line="7" column="78" />
@@ -1023,7 +1030,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/projects/arbiter/docs/state.puml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/arbiter/docs/state.puml" />
       <jump line="21" column="16" filename="$USER_HOME$/projects/mad-sweeney/horus/package.json" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/.gitlab-ci.yml" />
@@ -1123,6 +1129,7 @@
       <jump line="31" column="3" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
       <jump line="16" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
+      <jump line="31" column="29" filename="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
