@@ -322,11 +322,6 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/market-adapter-map.js" timestamp="1501005505950">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="58" />
-        <mark key="." line="8" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/mgr/.gitignore" timestamp="1492110632482">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="5" column="20" />
@@ -599,11 +594,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/market-adapter/bit-market.js" timestamp="1501005029922">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/projects/arbiter/lib/decision-model.js" timestamp="1499883576348">
         <mark key="[" line="35" column="83" />
@@ -896,10 +886,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/docker-compose.yml" timestamp="1501261055262">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/docker-compose.yml" timestamp="1501317690786">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/infra/.gitlab-ci.yml" timestamp="1500738006654">
         <mark key="'" line="15" column="7" />
@@ -1156,17 +1147,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Ú</text>
       </register>
       <register name="-" type="4">
-        <text>otoMotoOffers</text>
+        <text>Ú</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>__DIR__ . '/../src/app/config/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByYWJiaXQ6CiAgICBpbWFnZTogInJlZ2lzdHJ5LmdpdGxhYi5jb20vbWFkLXN3ZWVuZXkvaW5mcmEvcmFiYml0OmxhdGVzdCIKICAgIHBvcnRzOgogICAgICAtICI1NjcyOjU2NzIiCiAgICAgIC0gIjE1NjcyOjE1NjcyIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
