@@ -193,12 +193,10 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501322968783">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="12" column="11" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501326989285">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/package-lock.json" timestamp="1501171093398">
         <mark key="[" line="2" column="20" />
@@ -245,12 +243,12 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501323618209">
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501326961590">
         <mark key="'" line="13" column="51" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/deploy.sh" timestamp="1500578216983">
         <mark key="[" line="0" column="19" />
@@ -971,12 +969,12 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501323882140">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="20" column="62" />
-        <mark key="^" line="20" column="62" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501327184492">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/.dockerignore" timestamp="1500729119968">
         <mark key="[" line="0" column="1" />
@@ -1156,43 +1154,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ble</text>
+        <text>amqpChannel</text>
       </register>
       <register name="-" type="4">
-        <text>ble</text>
+        <text>amqpChannel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hbXFwQ2hhbm5lbC5lbWl0KCdlcnJvcicsIG5ldyBFcnJvcignYmxlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbk1lc3NhZ2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGludGVydmFsSWQgPSBudWxsOwo=</text>
+        <text encoding="base64">Y2xhc3MgQ2hhbm5lbFByb3h5IHsKICBjb25zdHJ1Y3RvcihhbXFwQ2hhbm5lbCkgewogICAgdGhpcy5hbXFwQ2hhbm5lbCA9IGFtcXBDaGFubmVsOwogIH0KCiAgcHVibGlzaChleGNoYW5nZSwgcm91dGluZ0tleSwgY29udGVudCkgewoKICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW50ZXJ2YWwgPSB7IHNlY29uZHM6IDUgfTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuYW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRoaXMuYW1xcENoYW5uZWwucHVibGlzaCh0aGlzLmV4Y2hhbmdlLCB0aGlzLnJvdXRpbmdLZXksIG5ldyBCdWZmZXIoanNvbk1lc3NhZ2UpKTsKICAgIH0gY2F0Y2ggKGVycikgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hbXFwQ2hhbm5lbC5wdWJsaXNoKHRoaXMuZXhjaGFuZ2UsIHRoaXMucm91dGluZ0tleSwgbmV3IEJ1ZmZlcihqc29uTWVzc2FnZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGV0IGludGVydmFsSWQgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
