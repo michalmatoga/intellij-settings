@@ -133,6 +133,11 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/motofirma/motofirma/templates/index/contact.twig" timestamp="1501314646113">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/meskiepaczki/landing-page/config/.gitignore" timestamp="1464164721953">
         <mark key="[" line="0" column="0" />
       </file>
@@ -857,7 +862,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501313737073">
+      <file name="/Dummy.txt" timestamp="1501314763842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myoplot/public/index.html" timestamp="1496858992102">
@@ -1152,7 +1157,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnRfcigkc3luY0RhdGEpOwpleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>otoMotoOffers</text>
@@ -1164,31 +1169,31 @@
         <text>__DIR__ . '/../src/app/config/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfcigkc3luY0RhdGEpOwpleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfcigkb3RvTW90b09mZmVycyk7CmV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW5pdCBhbmQgc2V0IGFwcCBzZXR0aW5ncwokYXBwID0gbmV3IFNpbGV4XEFwcGxpY2F0aW9uKFsKICAgICdkZWJ1ZycgPT4gJGNvbmZpZ1snZGVidWcnXSwKICAgICdjb25maWcnID0+ICRjb25maWcsCl0pOwo=</text>
+        <text encoding="base64">cHJpbnRfcigkc3luY0RhdGEpOwpleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcGhwCg==</text>
+        <text encoding="base64">cHJpbnRfcigkb3RvTW90b09mZmVycyk7CmV4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVtcE9mZmVyWydvdG9Nb3RvRXhwaXJhdGlvbiddID0gJG9mZmVyWyd2YWxpZF90byddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gcmVnaXN0ZXIgdmVuZG9yIGF1dG8gbG9hZGVycwo=</text>
+        <text encoding="base64">Ly8gaW5pdCBhbmQgc2V0IGFwcCBzZXR0aW5ncwokYXBwID0gbmV3IFNpbGV4XEFwcGxpY2F0aW9uKFsKICAgICdkZWJ1ZycgPT4gJGNvbmZpZ1snZGVidWcnXSwKICAgICdjb25maWcnID0+ICRjb25maWcsCl0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gc2ltcGxlIGNvbmZpZyBoYW5kbGluZyBiYXNlZCBvbiBFTlYgc2V0dGluZyBAc2VlIFJha2VmaWxlOjpzZXRFbnYK</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcGhwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGFwcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGVtcE9mZmVyWydvdG9Nb3RvRXhwaXJhdGlvbiddID0gJG9mZmVyWyd2YWxpZF90byddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
