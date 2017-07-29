@@ -116,6 +116,7 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/index.js" timestamp="1501180429122">
+        <mark key="'" line="18" column="4" />
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="54" />
         <mark key="." line="12" column="54" />
@@ -749,12 +750,12 @@
         <mark key="." line="53" column="62" />
         <mark key="^" line="53" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" timestamp="1501331670740">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="51" column="70" />
-        <mark key="]" line="51" column="78" />
-        <mark key="." line="51" column="78" />
-        <mark key="^" line="51" column="78" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" timestamp="1501333963107">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/docker-compose.yml" timestamp="1501260994515">
         <mark key="[" line="5" column="15" />
@@ -1108,7 +1109,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
       <jump line="3" column="9" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="54" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
       <jump line="56" column="22" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
       <jump line="48" column="21" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
@@ -1130,16 +1130,17 @@
       <jump line="40" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>responses</text>
+        <text>minutes</text>
       </register>
       <register name="-" type="4">
-        <text>responses</text>
+        <text>minutes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDT1BZXD4=</text>
