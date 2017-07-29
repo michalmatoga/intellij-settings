@@ -611,6 +611,9 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/motofirma/motofirma/scripts/restore_testimonials.php" timestamp="1501312364752">
+        <mark key="'" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/mgr/tex/scripts/biber.sh" timestamp="1472233286296">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="45" />
@@ -728,10 +731,7 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501345800009">
-        <mark key="'" line="31" column="28" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+        <mark key="'" line="32" column="28" />
       </file>
       <file name="$USER_HOME$/projects/mgr/tex/build_figures.sh" timestamp="1486802886632">
         <mark key="[" line="7" column="76" />
