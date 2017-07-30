@@ -195,12 +195,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501404485506">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501407431504">
+        <mark key="'" line="23" column="64" />
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="68" column="82" />
+        <mark key="." line="68" column="82" />
+        <mark key="^" line="68" column="82" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/package-lock.json" timestamp="1501171093398">
         <mark key="[" line="2" column="20" />
@@ -1048,7 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/infra/rabbit_7283e8f46592_2017-7-28.json" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/infra/environment/docker/rabbit/definitions.json" />
       <jump line="10" column="6" filename="$USER_HOME$/projects/mad-sweeney/thoth/config/default.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/config/default.js" />
@@ -1148,6 +1147,7 @@
       <jump line="54" column="15" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="23" column="64" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
