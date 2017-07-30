@@ -195,12 +195,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501397442516">
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501397648436">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-        <mark key="^" line="21" column="80" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/package-lock.json" timestamp="1501171093398">
         <mark key="[" line="2" column="20" />
@@ -860,7 +860,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501345856290">
+      <file name="/Dummy.txt" timestamp="1501397600792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myoplot/public/index.html" timestamp="1496858992102">
@@ -1156,10 +1156,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRzXD4=</text>
