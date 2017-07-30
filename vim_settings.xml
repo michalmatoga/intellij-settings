@@ -195,12 +195,12 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501398401028">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="4" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" timestamp="1501404485506">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/package-lock.json" timestamp="1501171093398">
         <mark key="[" line="2" column="20" />
@@ -541,7 +541,7 @@
         <mark key="^" line="12" column="78" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/fragment.js" timestamp="1501331638777">
+      <file name="/fragment.js" timestamp="1501404319565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/michalmatoga/phpstorm-docker-interpreter/env/docker/php/Dockerfile" timestamp="1461088786523">
@@ -823,7 +823,7 @@
       <file name="/PHP Console" timestamp="1492100478647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501336681698">
+      <file name="/JavaScript Console" timestamp="1501404280552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mgr/octave/seria1.m" timestamp="1492102255181">
@@ -860,7 +860,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501397600792">
+      <file name="/Dummy.txt" timestamp="1501404523891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/myoplot/public/index.html" timestamp="1496858992102">
@@ -971,12 +971,10 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501397303064">
-        <mark key="'" line="43" column="11" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" timestamp="1501404016242">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/.dockerignore" timestamp="1500729119968">
         <mark key="[" line="0" column="1" />
@@ -1050,19 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="2" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
-      <jump line="35" column="1" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
-      <jump line="36" column="3" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
-      <jump line="22" column="2" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/exchange/abstract-exchange.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/exchange/bit-market.js" />
-      <jump line="49" column="61" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/horus.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/publisher.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
-      <jump line="3" column="1" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/arbiter/environment/mongo/Dockerfile" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/infra/rabbit_7283e8f46592_2017-7-28.json" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/infra/environment/docker/rabbit/definitions.json" />
       <jump line="10" column="6" filename="$USER_HOME$/projects/mad-sweeney/thoth/config/default.js" />
@@ -1123,7 +1108,6 @@
       <jump line="7" column="20" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
-      <jump line="27" column="2" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
       <jump line="23" column="29" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/exchange/abstract-exchange.js" />
       <jump line="12" column="23" filename="$USER_HOME$/projects/mad-sweeney/horus/index.js" />
@@ -1150,49 +1134,63 @@
       <jump line="15" column="40" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/mad-sweeney/thoth/index.js" />
       <jump line="15" column="3" filename="$USER_HOME$/projects/mad-sweeney/thoth/config/default.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="19" column="24" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="61" column="4" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="48" column="22" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="43" column="22" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="54" column="15" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/mad-sweeney/horus/lib/amqp-manager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>this.msgCache.shift()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29ubi5vbignZXJyb3InLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbC5vbignZXJyb3InLCAoZXJyKSA9PiB7CiAgICAgICAgbG9nZ2VyLmRlYnVnKGBDaGFubmVsIGVycm9yOiAke2Vyci5tZXNzYWdlfWApOwogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVyci5tZXNzYWdlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBsb2dnZXIuZGVidWcoYHNhdmVkICR7ZXhjaGFuZ2UuaWR9IGRhdGFgKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgZHJhaW5DYWNoZSgpIHsKICAgIGNvbnN0IGNhY2hlU2l6ZSA9IHRoaXMubXNnQ2FjaGUubGVuZ3RoOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBjYWNoZVNpemU7IGkgKz0gMSkgewogICAgICBsb2dnZXIuZGVidWcoYGRyYWluaW5nIGNhY2hlIG1zZyAke2l9YCk7CiAgICAgIGNvbnN0IFtleGNoYW5nZSwgcm91dGluZ0tleSwgbWVzc2FnZV0gPSB0aGlzLm1zZ0NhY2hlLnNoaWZ0KCk7CiAgICAgIHRoaXMucHVibGlzaChleGNoYW5nZSwgcm91dGluZ0tleSwgbWVzc2FnZSk7CiAgICB9CiAgfQoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vdXRpbHMvbG9nZ2VyJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29ubi5vbignY2xvc2UnLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29ubi5vbignY2xvc2UnLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmF3YWl0aW5nTWVzc2FnZXMuZm9yRWFjaCgoKSA9PiB7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29ubi5vbignY2xvc2UnLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hd2FpdGluZ01lc3NhZ2VzLmZvckVhY2goKCkgPT4gewogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgY29ubi5vbignY2xvc2UnLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdkcmFpbmluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgY29ubi5vbignZXJyb3InLCB0aGlzLmhhbmRsZS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmRlYnVnKCdkb25lIGRyYWluaW5nJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>52500</text>
