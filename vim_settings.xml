@@ -716,7 +716,7 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501521987091">
+      <file name="/Dummy.txt" timestamp="1501522424853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501504909633">
@@ -1111,9 +1111,7 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501521982209">
-        <mark key="'" line="12" column="14" />
-      </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501521982209" />
       <file name="$USER_HOME$/projects/motofirma/motofirma/src/Application/src/Model/Offer/Form/Step2.php" timestamp="1491034563415">
         <mark key="[" line="39" column="40" />
         <mark key="]" line="39" column="53" />
