@@ -109,12 +109,12 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" timestamp="1501487520639">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" timestamp="1501487816845">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/field-validator/source.js" timestamp="1498648580450">
         <mark key="[" line="2" column="16" />
@@ -223,10 +223,16 @@
         <mark key="]" line="20" column="6" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/config/default.js" timestamp="1501486386388">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/codecs-map.js" timestamp="1501489193931">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/svp/yats/encoder/config/default.js" timestamp="1501487974522">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="7" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="44" column="5" />
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
@@ -398,11 +404,11 @@
         <mark key="." line="64" column="63" />
         <mark key="^" line="64" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/index.js" timestamp="1501487532855">
-        <mark key="[" line="46" column="53" />
-        <mark key="]" line="46" column="67" />
-        <mark key="." line="46" column="67" />
-        <mark key="^" line="46" column="67" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/index.js" timestamp="1501488958675">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="70" />
+        <mark key="." line="38" column="70" />
+        <mark key="^" line="38" column="70" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/node_modules/svp-yats-fs/lib/adapter/local.js" timestamp="1500382263871">
         <mark key="[" line="38" column="8" />
@@ -613,7 +619,7 @@
         <mark key="." line="46" column="96" />
         <mark key="^" line="46" column="96" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501243067589">
+      <file name="/JavaScript Console" timestamp="1501488962719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
@@ -733,11 +739,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/message-parser.js" timestamp="1501487623228">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="9" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/message-parser.js" timestamp="1501489059272">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1498739944750">
         <mark key="[" line="0" column="0" />
@@ -756,11 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
-      <jump line="53" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
-      <jump line="20" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
-      <jump line="40" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
@@ -856,46 +857,87 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/codecs-map.js" />
+      <jump line="24" column="5" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/message-parser.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/message-parser.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/codecs-map.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/message-parser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Rejects messages with no content property</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Rejects messages with no content property</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
-      <register name="0" type="4">
-        <text>params.codec</text>
+      <register name="0" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgeyBleHBlY3QgfSA9IHJlcXVpcmUoJy4uLy4uL2NvbW1vbicpOwpjb25zdCBwYXJzZXIgPSByZXF1aXJlKCcuLi8uLi8uLi9saWIvbWVzc2FnZS1wYXJzZXInKTsKY29uc3QgQWp2ID0gcmVxdWlyZSgnYWp2Jyk7CgpkZXNjcmliZSgnQU1RUCBNZXNzYWdlIHBhcnNlcicsIGZ1bmN0aW9uICgpIHsKICBpdCgnUmVqZWN0cyBtZXNzYWdlcyB3aXRoIG5vIGNvbnRlbnQgcHJvcGVydHknLCBmdW5jdGlvbiAoKSB7CiAgICBsZXQgY2F1Z2h0ID0gZmFsc2U7CiAgICB0cnkgewogICAgICBwYXJzZXIucGFyc2Uoe30pOwogICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgIGNhdWdodCA9IHRydWU7CiAgICAgIGV4cGVjdChlcnIpLnRvLmJlLmluc3RhbmNlb2YoQWp2LlZhbGlkYXRpb25FcnJvcik7CiAgICAgIGV4cGVjdChlcnIuZXJyb3JzKS50by5iZS5lcXVhbChwYXJzZXIuTUFMRk9STUVEX01TRyk7CiAgICAgIGV4cGVjdChlcnIuYW1xcE1lc3NhZ2VQYXlsb2FkKS50by5iZS5lcXVhbChudWxsKTsKICAgIH0KICAgIGV4cGVjdChjYXVnaHQpLnRvLmJlLmVxdWFsKHRydWUpOwogIH0pOwogIGl0KCdSZWplY3RzIG1lc3NhZ2VzIHdpdGggbWFsZm9ybWVkIEpTT04gYm9keScsIGZ1bmN0aW9uICgpIHsKICAgIGxldCBjYXVnaHQgPSBmYWxzZTsKICAgIGNvbnN0IG1lc3NhZ2VDb250ZW50ID0gJ3snOwogICAgdHJ5IHsKICAgICAgcGFyc2VyLnBhcnNlKHsgY29udGVudDogbWVzc2FnZUNvbnRlbnQgfSk7CiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgY2F1Z2h0ID0gdHJ1ZTsKICAgICAgZXhwZWN0KGVycikudG8uYmUuaW5zdGFuY2VvZihBanYuVmFsaWRhdGlvbkVycm9yKTsKICAgICAgZXhwZWN0KGVyci5lcnJvcnMpLnRvLmJlLmVxdWFsKHBhcnNlci5NQUxGT1JNRURfSlNPTik7CiAgICAgIGV4cGVjdChlcnIuYW1xcE1lc3NhZ2VQYXlsb2FkKS50by5iZS5lcXVhbChtZXNzYWdlQ29udGVudCk7CiAgICB9CiAgICBleHBlY3QoY2F1Z2h0KS50by5iZS5lcXVhbCh0cnVlKTsKICB9KTsKICBpdCgnUmV0dXJucyBvYmplY3Qgb24gc3VjY2VzcycsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGV4cGVjdGVkID0gJ3NvbWUgc3RyaW5nJzsKICAgIGV4cGVjdChwYXJzZXIucGFyc2UoeyBjb250ZW50OiBgIiR7ZXhwZWN0ZWR9ImAgfSkpLnRvLmJlLmVxdWFsKGV4cGVjdGVkKTsKICB9KTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvZGVjc01hcCA9IG5ldyBDb2RlY3NNYXAoYXZhaWxhYmxlRW5jb2RlcnMsIGNvZGVjc0NvbmZpZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBjb2RlY3MgfSA9IHJlcXVpcmUoJ2NvbmZpZycpOwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGVycikudG8uYmUudHlwZU9mKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyBxdWFsaXR5IGhhbmRsaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29kZWNMaWJyYXJ5TWFwID0gewogIGZsYWM6ICdmbGFjJywKICBhYWM6ICdsaWJmZGtfYWFjJywKfTsK</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29kZWNMaWJyYXJ5TWFwID0gewogIGZsYWM6ICdmbGFjJywKICBhYWM6ICdsaWJmZGtfYWFjJywKfTsKCg==</text>
+      <register name="6" type="4">
+        <text>'use strict';
+
+const { expect } = require('../../common');
+const parser = require('../../../lib/message-parser');
+const Ajv = require('ajv');
+
+describe('AMQP Message parser', function () {
+  it('Rejects messages with no content property', function () {
+    let caught = false;
+    try {
+      parser.parse({});
+    } catch (err) {
+      caught = true;
+      expect(err).to.be.instanceof(Ajv.ValidationError);
+      expect(err.errors).to.be.equal(parser.MALFORMED_MSG);
+      expect(err.amqpMessagePayload).to.be.equal(null);
+    }
+    expect(caught).to.be.equal(true);
+  });
+  it('Rejects messages with malformed JSON body', function () {
+    let caught = false;
+    const messageContent = '{';
+    try {
+      parser.parse({ content: messageContent });
+    } catch (err) {
+      caught = true;
+      expect(err).to.be.instanceof(Ajv.ValidationError);
+      expect(err.errors).to.be.equal(parser.MALFORMED_JSON);
+      expect(err.amqpMessagePayload).to.be.equal(messageContent);
+    }
+    expect(caught).to.be.equal(true);
+  });
+  it('Returns object on success', function () {
+    const expected = 'some string';
+    expect(parser.parse({ content: `&quot;${expected}&quot;` })).to.be.equal(expected);
+  });
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgeyBleHBlY3QgfSA9IHJlcXVpcmUoJy4uLy4uL2NvbW1vbicpOwpjb25zdCBDb2RlY3NNYXAgPSByZXF1aXJlKCcuLi8uLi8uLi9saWIvY29kZWNzLW1hcCcpOwoKY29uc3QgY29kZWNzQ29uZmlnID0gewogIGgyNjQ6IHsKICAgIHR5cGU6ICd2aWRlbycsCiAgICBxdWFsaXRpZXM6IFsKICAgICAgewogICAgICAgIGlkOiAnbG93JywKICAgICAgICBlbmNvZGVyOiAnbnZlbmMnLAogICAgICAgIHBhcmFtczogJy1wcmVzZXQgaHEgLXBpeF9mbXQgbnYxMicsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogJ25vcm1hbCcsCiAgICAgICAgZW5jb2RlcjogJ2xpYngyNjQnLAogICAgICAgIHBhcmFtczogJy1wcmVzZXQgZmFzdCAtcGl4X2ZtdCB5dXY0MjBwIC14MjY0b3B0cyBjb2xvcnByaW09YnQ3MDk6dHJhbnNmZXI9YnQ3MDk6Y29sb3JtYXRyaXg9YnQ3MDk6ZnVsbHJhbmdlPW9mZicsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpZDogJ2hpZ2gnLAogICAgICAgIGVuY29kZXI6ICdsaWJ4MjY0JywKICAgICAgICBwYXJhbXM6ICctcHJlc2V0IHNsb3dlciAtcGl4X2ZtdCB5dXY0MjBwIC14MjY0b3B0cyBjb2xvcnByaW09YnQ3MDk6dHJhbnNmZXI9YnQ3MDk6Y29sb3JtYXRyaXg9YnQ3MDk6ZnVsbHJhbmdlPW9mZicsCiAgICAgIH0sCiAgICBdLAogIH0sCn07CgpkZXNjcmliZSgnQ29kZWNzTWFwJywgZnVuY3Rpb24gKCkgewogIGl0KCdUaHJvd3MgaWYgbm8gZW5jb2RlcnMgbWF0Y2ggY29uZmlndXJhdGlvbicsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGF2YWlsYWJsZUVuY29kZXJzID0gW107CiAgICBsZXQgdGhyb3duID0gZmFsc2U7CiAgICB0cnkgewoKICAgIH0KICAgIGNvbnN0IGNvZGVjc01hcCA9IG5ldyBDb2RlY3NNYXAoYXZhaWxhYmxlRW5jb2RlcnMsIGNvZGVjc0NvbmZpZyk7CiAgfSk7Cn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29kZWNMaWJyYXJ5TWFwID0gewogIGZsYWM6ICdmbGFjJywKICBhYWM6ICdsaWJmZGtfYWFjJywKfTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYC1jb2RlYzphICR7Y29kZWNMaWJyYXJ5TWFwW3BhcmFtcy5jb2RlY119YCwgLy8gYXVkaW8gY29kZWMgc2VsZWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
