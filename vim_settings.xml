@@ -716,7 +716,7 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501519465817">
+      <file name="/Dummy.txt" timestamp="1501521987091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501504909633">
@@ -1042,10 +1042,6 @@
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501521020809">
         <mark key="'" line="12" column="23" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/field-validator/source.js" timestamp="1498648580450">
         <mark key="[" line="2" column="16" />
