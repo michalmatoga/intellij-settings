@@ -1040,12 +1040,12 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501519914266">
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/index.js" timestamp="1501521020809">
         <mark key="'" line="12" column="23" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="16" column="9" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/field-validator/source.js" timestamp="1498648580450">
         <mark key="[" line="2" column="16" />
@@ -1887,43 +1887,43 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6ICJvbi1mYWlsdXJlOjUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get('')</text>
+        <text>shutting down</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6ICJvbi1mYWlsdXJlOjUiCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2h1dHRpbmcgZG93bicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30ga2V5UHJlZml4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
