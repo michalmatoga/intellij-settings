@@ -109,7 +109,8 @@
         <mark key="^" line="47" column="15" />
         <mark key="." line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" timestamp="1501247088928">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" timestamp="1501485107115">
+        <mark key="'" line="37" column="2" />
         <mark key="[" line="37" column="77" />
         <mark key="]" line="37" column="77" />
         <mark key="^" line="37" column="77" />
@@ -748,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/image-worker.js" />
       <jump line="36" column="5" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" />
       <jump line="50" column="12" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" />
@@ -848,6 +848,7 @@
       <jump line="39" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
