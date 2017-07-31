@@ -1115,12 +1115,8 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501519837661">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="13" />
+      <file name="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" timestamp="1501521982209">
+        <mark key="'" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/projects/motofirma/motofirma/src/Application/src/Model/Offer/Form/Step2.php" timestamp="1491034563415">
         <mark key="[" line="39" column="40" />
@@ -1781,7 +1777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="3" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="20" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/audio.json" />
@@ -1881,13 +1876,14 @@
       <jump line="22" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" />
       <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
+      <jump line="12" column="14" filename="$USER_HOME$/projects/mad-sweeney/infra/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAiLi4vaG9ydXMiCg==</text>
       </register>
       <register name="-" type="4">
         <text>shutting down</text>
@@ -1899,19 +1895,19 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnc2h1dHRpbmcgZG93bicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAiLi4vaG9ydXMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
@@ -1920,10 +1916,10 @@
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
