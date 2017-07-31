@@ -55,6 +55,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="69" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/image-worker.js" timestamp="1501504452107">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/validators/schema-validator-factory.js" timestamp="1501243014610">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="45" />
@@ -103,11 +109,11 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/storage/status-dao.js" timestamp="1500642144068">
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/storage/status-dao.js" timestamp="1501503752680">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/config/custom-environment-variables.js" timestamp="1501501836184">
         <mark key="[" line="11" column="29" />
@@ -185,12 +191,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" timestamp="1501242458362">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" timestamp="1501504772502">
+        <mark key="'" line="118" column="54" />
+        <mark key="[" line="118" column="41" />
+        <mark key="]" line="118" column="52" />
+        <mark key="." line="118" column="52" />
+        <mark key="^" line="118" column="52" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/model/publishing-pair-repository.js" timestamp="1496993578648">
         <mark key="[" line="11" column="32" />
@@ -242,12 +248,12 @@
         <mark key="^" line="57" column="37" />
         <mark key="." line="57" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/config/default.js" timestamp="1501501823525">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/config/default.js" timestamp="1501503792816">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="19" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/image.json" timestamp="1501157918268">
         <mark key="'" line="58" column="0" />
@@ -300,11 +306,12 @@
         <mark key="^" line="27" column="82" />
         <mark key="." line="27" column="82" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/storage/status-dao.js" timestamp="1499843758587">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/storage/status-dao.js" timestamp="1501503941855">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/foo-bar.js" timestamp="1498130071402">
         <mark key="[" line="0" column="13" />
@@ -330,12 +337,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/audio-worker.js" timestamp="1501494315223">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/audio-worker.js" timestamp="1501504432012">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="79" />
-        <mark key="." line="32" column="42" />
-        <mark key="^" line="32" column="42" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/projects/svp/admin-tool/environment/docker/php/Dockerfile" timestamp="1496319072852">
         <mark key="[" line="9" column="29" />
@@ -350,12 +357,12 @@
         <mark key="." line="179" column="24" />
         <mark key="^" line="179" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" timestamp="1501158481751">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/image-worker.js" timestamp="1501504950242">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="44" column="173" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="44" column="170" />
+        <mark key="[" line="44" column="54" />
+        <mark key="]" line="44" column="71" />
+        <mark key="." line="44" column="54" />
+        <mark key="^" line="44" column="58" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/routes/assets.js" timestamp="1499248605142">
         <mark key="[" line="15" column="10" />
@@ -369,6 +376,9 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="45" column="10" />
+      </file>
+      <file name="/fragment.js" timestamp="1501069715502">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/message-parser.js" timestamp="1500535057935">
         <mark key="[" line="31" column="35" />
@@ -414,12 +424,12 @@
         <mark key="." line="64" column="63" />
         <mark key="^" line="64" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/index.js" timestamp="1501501865932">
+      <file name="$USER_HOME$/projects/svp/yats/encoder/index.js" timestamp="1501503780275">
         <mark key="'" line="41" column="16" />
-        <mark key="[" line="48" column="50" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="71" />
-        <mark key="^" line="48" column="71" />
+        <mark key="[" line="39" column="63" />
+        <mark key="]" line="39" column="63" />
+        <mark key="." line="39" column="63" />
+        <mark key="^" line="49" column="107" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/node_modules/svp-yats-fs/lib/adapter/local.js" timestamp="1500382263871">
         <mark key="[" line="38" column="8" />
@@ -529,18 +539,18 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/thumbnails-worker.js" timestamp="1501495630614">
-        <mark key="[" line="75" column="44" />
-        <mark key="]" line="75" column="44" />
-        <mark key="." line="75" column="44" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/thumbnails-worker.js" timestamp="1501504468058">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="51" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="75" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" timestamp="1501493961587">
-        <mark key="'" line="39" column="28" />
-        <mark key="[" line="13" column="76" />
-        <mark key="]" line="13" column="77" />
-        <mark key="." line="13" column="77" />
-        <mark key="^" line="13" column="77" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" timestamp="1501505078796">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="56" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="39" column="39" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/fs.js" timestamp="1498718561076">
         <mark key="[" line="4" column="29" />
@@ -554,11 +564,11 @@
         <mark key="^" line="230" column="9" />
         <mark key="." line="230" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/video-worker.js" timestamp="1501494325793">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="80" />
-        <mark key="." line="32" column="43" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/video-worker.js" timestamp="1501504733930">
+        <mark key="'" line="23" column="72" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/yats-client.js" timestamp="1499244509616">
@@ -629,12 +639,15 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" timestamp="1501495491098">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="78" column="36" />
-        <mark key="." line="78" column="36" />
-        <mark key="^" line="78" column="36" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" timestamp="1501504998622">
+        <mark key="'" line="84" column="52" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="53" />
+        <mark key="." line="51" column="36" />
+        <mark key="^" line="51" column="40" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1501488962719">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
         <mark key="[" line="32" column="0" />
@@ -675,18 +688,21 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
+      <file name="/Dummy.txt" timestamp="1501504977695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/yats-client.js" timestamp="1499843410242">
         <mark key="[" line="25" column="3" />
         <mark key="]" line="25" column="24" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501494043504">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="12" column="52" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" timestamp="1501504909633">
+        <mark key="'" line="22" column="29" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/tmp.sh" timestamp="1497876104925">
         <mark key="[" line="0" column="19" />
@@ -756,6 +772,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/fragment.js2" timestamp="1498739944750">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/model/gateway-pair-repository.js" timestamp="1499248563941">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="3" column="12" />
@@ -770,13 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/thumbnails-worker.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
-      <jump line="66" column="8" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="29" column="3" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="20" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
@@ -870,51 +882,56 @@
       <jump line="36" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/thumbnails.json" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/.ecosystem.config.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/storage/status-dao.js" />
+      <jump line="23" column="9" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/image-worker.js" />
+      <jump line="23" column="72" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/video-worker.js" />
+      <jump line="118" column="54" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" />
+      <jump line="22" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" />
+      <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
+      <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'encoder-queue'</text>
+        <text>get('')</text>
       </register>
       <register name="-" type="4">
-        <text>'encoder-queue'</text>
+        <text>get('')</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmZm1wZWc6IHsKICAgIHRocmVhZHM6IDEyLAogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgYC10aHJlYWRzICR7Y2ZnLmZmbXBlZy50aHJlYWRzfWAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUVVFVUU6ICdlbmNvZGVyLXF1ZXVlJywK</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkIGVuY29kaW5nIHF1YWxpdHkgc3VwcG9ydAo=</text>
+        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAidGlsZSIsCiAgICAgICAgImdlb21ldHJ5IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAidGlsZSI6IHsKICAgICAgICAgICJ0eXBlIjogInN0cmluZyIsCiAgICAgICAgICAibWluTGVuZ3RoIjogMQogICAgICAgIH0sCiAgICAgICAgImdlb21ldHJ5IjogewogICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICJtaW5MZW5ndGgiOiAxCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGlsZTogJzEweCcsCiAgICAgIGdlb21ldHJ5OiAnKzArMCcsCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30ga2V5UHJlZml4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -950,7 +967,6 @@
         <entry>1,</entry>
       </history-search>
       <history-cmd>
-        <entry>137</entry>
         <entry>21</entry>
         <entry>40</entry>
         <entry>22</entry>
@@ -970,6 +986,7 @@
         <entry>38</entry>
         <entry>16</entry>
         <entry>8</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />
