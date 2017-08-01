@@ -273,8 +273,8 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501610151923">
-        <mark key="'" line="24" column="3" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501610792124">
+        <mark key="'" line="27" column="2" />
         <mark key="[" line="31" column="46" />
         <mark key="]" line="31" column="49" />
         <mark key="." line="31" column="49" />
@@ -611,11 +611,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501610309432">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="24" column="3" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="3" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501611787515">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="50" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501602301543">
         <mark key="'" line="0" column="0" />
@@ -839,7 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="39" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
@@ -939,13 +938,14 @@
       <jump line="6" column="22" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/shadow-model.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/shadow-model.js" />
       <jump line="11" column="3" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>exitedPair</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>exitedPair</text>
+        <text>dataExchange</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
@@ -954,32 +954,31 @@
         <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCiAgICB0aGlzLnB1c2gobmV3IEV4aXRTY291dChleGNoYW5nZVBhaXIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHVzaChuZXcgRXhpdFNjb3V0KGV4Y2hhbmdlUGFpcikpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGF0YS5leGNoYW5nZXMuZm9yRWFjaCgoZXhjaGEpID0+IHsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgZ2V0T3Bwb3J0dW5pdHkoZGF0YSkgewoKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4aXRTY291dCA9IDsKICAgIGV4aXRTY291dC5vbignZXhpdCcsIHRoaXMuZXhpdC5iaW5kKHRoaXMpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvbmcgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4aXRTY291dCA9IG5ldyBFeGl0U2NvdXQoZXhjaGFuZ2VQYWlyKTsKICAgIGV4aXRTY291dC5vbignZXhpdCcsIHRoaXMuZXhpdC5iaW5kKHRoaXMpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3J0ID07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgZW50cnlTY291dHMuZm9yRWFjaCgoc2NvdXQpID0+IHsKICAgICAgdGhpcy5wdXNoKHNjb3V0KTsKICAgICAgc2NvdXQub24oJ2VudGVyJywgdGhpcy5lbnRlci5iaW5kKHRoaXMpKTsKICAgIH0pOwogICAgdGhpcy5lbnRyeVNjb3V0cyA9IGVudHJ5U2NvdXRzOwoKICAgIGV4aXRTY291dHMuZm9yRWFjaCgoc2NvdXQpID0+IHsKICAgICAgc2NvdXQub24oJ2V4aXQnLCB0aGlzLmV4aXQuYmluZCh0aGlzKSk7CiAgICB9KTsKICAgIHRoaXMuZXhpdFNjb3V0cyA9IGV4aXRTY291dHM7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkYXRhTW9tZW50LmlzU2FtZU9yQWZ0ZXIodGhpcy5jaGVja01vbWVudCkpIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb3Bwb3J0dW5pdHkgPSB0aGlzLmdldE9wcG9ydHVuaXR5KGRhdGEpOwogICAgICBpZiAob3Bwb3J0dW5pdHkpIHsKICAgICAgICB0aGlzLmVtaXQoJ2VudGVyJywgb3Bwb3J0dW5pdHkpOwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbml0KGVudHJ5U2NvdXQpIHsKICAgIGVudHJ5U2NvdXQub24oJ2VudGVyJywgdGhpcy5lbnRlci5iaW5kKHRoaXMpKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGFNb21lbnQgPSBtb21lbnQoZGF0YS50aW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhlY3V0b3IuaW5pdChlbnRyeVNjb3V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
