@@ -115,8 +115,12 @@
         <mark key="^" line="26" column="58" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" timestamp="1501571998542">
-        <mark key="'" line="68" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" timestamp="1501574061681">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/config/custom-environment-variables.js" timestamp="1501501836184">
         <mark key="[" line="11" column="29" />
@@ -301,6 +305,9 @@
         <mark key="]" line="14" column="75" />
         <mark key="." line="14" column="75" />
         <mark key="^" line="14" column="75" />
+      </file>
+      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/unit/lib/yats-client.js" timestamp="1501573981346">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/validators/chain-validator.js" timestamp="1500643086735">
         <mark key="'" line="24" column="6" />
@@ -635,7 +642,8 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/.gitignore" timestamp="1501572066966">
+      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/.gitignore" timestamp="1501572431042">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -696,7 +704,7 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501505189099">
+      <file name="/Dummy.txt" timestamp="1501574072156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/yats-client.js" timestamp="1499843410242">
@@ -797,11 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/audio.json" />
-      <jump line="24" column="12" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
-      <jump line="40" column="35" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
-      <jump line="33" column="11" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
@@ -897,13 +900,18 @@
       <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/.gitignore" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/test/unit/lib/yats-client.js" />
+      <jump line="39" column="20" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly5pZGVhLwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICIyLjcuMCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get('')</text>
+        <text>3.19.0</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
@@ -912,16 +920,16 @@
         <text encoding="base64">ICAgICAgYC10aHJlYWRzICR7Y2ZnLmZmbXBlZy50aHJlYWRzfWAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly5pZGVhLwo=</text>
+        <text encoding="base64">ICAgICJlc2xpbnQtcGx1Z2luLWltcG9ydCI6ICIyLjcuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
+        <text encoding="base64">Ly5pZGVhLwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
@@ -930,13 +938,13 @@
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
