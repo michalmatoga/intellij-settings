@@ -181,8 +181,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" timestamp="1501495498452">
-        <mark key="'" line="65" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" timestamp="1501589399329">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="95" column="22" />
@@ -877,7 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="105" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
@@ -977,6 +976,7 @@
       <jump line="46" column="0" filename="$USER_HOME$/projects/svp/yats/distributor/.ecosystem.config.js" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/svp/yats/distributor/.ecosystem.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/distributor/.ecosystem.config.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
