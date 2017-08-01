@@ -489,6 +489,12 @@
         <mark key="." line="46" column="68" />
         <mark key="^" line="46" column="68" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/config/default.js" timestamp="1501601617690">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/node_modules/svp-yats-fs/lib/adapter/local.js" timestamp="1500382263871">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="7" />
@@ -615,6 +621,11 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" timestamp="1501601581743">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="32" column="3" />
       </file>
       <file name="internal/util.js" timestamp="1500641174211">
         <mark key="[" line="0" column="0" />
@@ -868,9 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="54" column="6" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
       <jump line="108" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" />
@@ -968,6 +976,9 @@
       <jump line="60" column="4" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="49" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
+      <jump line="29" column="3" filename="$USER_HOME$/projects/mad-sweeney/horus/config/default.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/projects/mad-sweeney/sweeney/config/default.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/config/default.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -980,34 +991,34 @@
         <text>1,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaXRyYXRlOiAxMjgsCiAgICAgICAgc2FtcGxpbmdSYXRlOiA0NDEwMCwK</text>
+        <text encoding="base64">ICBtYXJrZXRzOiBbCiAgICAnQlRDL1BMTicsCiAgXSwKICBleGNoYW5nZXM6IFsKICAgIHsKICAgICAgaWQ6ICdiaXRiYXkubmV0JywKICAgICAgbWFya2V0czogWydCVEMvUExOJ10sCiAgICAgIHVyaVRlbXBsYXRlOiAnaHR0cHM6Ly9iaXRiYXkubmV0L0FQSS9QdWJsaWMve01BUktFVH0vb3JkZXJib29rLmpzb24nLAogICAgfSwKICAgIHsKICAgICAgaWQ6ICdiaXRtYXJrZXQucGwnLAogICAgICBtYXJrZXRzOiBbJ0JUQy9QTE4nXSwKICAgICAgdXJpVGVtcGxhdGU6ICdodHRwczovL2JpdG1hcmtldC5wbC9qc29uL3tNQVJLRVR9L29yZGVyYm9vay5qc29uJywKICAgIH0sCiAgICB7CiAgICAgIGlkOiAnYml0bWFzenluYS5wbCcsCiAgICAgIG1hcmtldHM6IFsnQlRDL1BMTiddLAogICAgICB1cmlUZW1wbGF0ZTogJ2h0dHBzOi8vYml0bWFzenluYS5wbC9hcGkve01BUktFVH0vZGVwdGhTaW1wbGUuanNvbicsCiAgICB9LAogIF0sCiAgcHVibGlzaGVyOiB7CiAgICBhbXFwOiB7CiAgICAgIGRzbjogJ2FtcXA6Ly9ndWVzdDpndWVzdEBsb2NhbGhvc3QnLAogICAgfSwKICAgIGV4Y2hhbmdlOiAndGljay1leGNoYW5nZScsCiAgICByb3V0aW5nS2V5OiAndGljaycsCiAgfSwKICBsb2dnZXI6IHsKICAgIGxldmVsOiAnZGVidWcnLAogIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhbE9wdHMucHVzaChgLWFyICR7cGFyYW1zLnNhbXBsaW5nUmF0ZSB8fCAnNDQxMDAnfWApOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYC1hciAke3BhcmFtcy5zYW1wbGluZ1JhdGUgfHwgJzQ0MTAwJ31gLCAvLyBhdWRpbyBzYW1wbGluZyBmcmVxdWVuY3kK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZ2VuZXJhbE9wdHMucHVzaChgLWFyICR7cGFyYW1zLnNhbXBsaW5nUmF0ZSB8fCAnNDQxMDAnfWApOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYC1hciAke3BhcmFtcy5zYW1wbGluZ1JhdGUgfHwgJzQ0MTAwJ31gLCAvLyBhdWRpbyBzYW1wbGluZyBmcmVxdWVuY3kK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYC1iOmEgJHtwYXJhbXMuYml0cmF0ZSB8fCAnMTI4J31rYCwgLy8gYXVkaW8gYml0cmF0ZSBzZWxlY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1ZGlvQ29kZWMgPSBBdWRpb1dvcmtlci5leHRlbnNpb25zLmNvZGVjc01hcC5yZXNvbHZlKHBhcmFtcy5jb2RlYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgYC1iOmEgJHtwYXJhbXMuYml0cmF0ZSB8fCAnMTI4J31rYCwgLy8gYXVkaW8gYml0cmF0ZSBzZWxlY3Rpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJy1tb3ZmbGFncyArZmFzdHN0YXJ0JywgLy8gbW92ZSBpbmRleCAobW9vdiBhdG9tKSB0byB0aGUgYmVnaW5uaW5nIG9mIHRoZSBmaWxlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGF1ZGlvQ29kZWMgPSBBdWRpb1dvcmtlci5leHRlbnNpb25zLmNvZGVjc01hcC5yZXNvbHZlKHBhcmFtcy5jb2RlYyk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJy1tb3ZmbGFncyArZmFzdHN0YXJ0JywgLy8gbW92ZSBpbmRleCAobW9vdiBhdG9tKSB0byB0aGUgYmVnaW5uaW5nIG9mIHRoZSBmaWxlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRhaW5lck9wdHMgPSBjZmcuZmZtcGVnLmNvbnRhaW5lclBhcmFtc1ttc2cuYXJ0aWZhY3QuY29udGFpbmVyXSB8fCBbXTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1ZGlvQ29kZWMgPSBBdWRpb1dvcmtlci5leHRlbnNpb25zLmNvZGVjc01hcC5yZXNvbHZlKHBhcmFtcy5jb2RlYyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
