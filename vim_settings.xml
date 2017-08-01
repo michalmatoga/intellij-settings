@@ -285,8 +285,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/package.json" timestamp="1501229518800">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/package.json" timestamp="1501576999731">
+        <mark key="'" line="69" column="71" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -409,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="44" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
@@ -509,6 +508,7 @@
       <jump line="21" column="3" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
       <jump line="62" column="3" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/config/default.js" />
+      <jump line="69" column="71" filename="$USER_HOME$/projects/svp/yats/encoder/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
