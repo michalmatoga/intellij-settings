@@ -611,11 +611,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501611787515">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="50" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501612408509">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501602301543">
         <mark key="'" line="0" column="0" />
@@ -941,11 +941,11 @@
       <jump line="27" column="2" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dataExchange</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
@@ -954,31 +954,33 @@
         <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCiAgICB0aGlzLnB1c2gobmV3IEV4aXRTY291dChleGNoYW5nZVBhaXIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5leGNoYW5nZXMuZm9yRWFjaCgoZXhjaGEpID0+IHsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZ2V0T3Bwb3J0dW5pdHkoZGF0YSkgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJlc3QgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvbmcgPQo=</text>
+        <text encoding="base64">ICAgIGxldCBiZXN0ID0gbnVsbDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNob3J0ID07Cg==</text>
+      <register name="5" type="4">
+        <text>{
+        return 
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRhTW9tZW50LmlzU2FtZU9yQWZ0ZXIodGhpcy5jaGVja01vbWVudCkpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb3Bwb3J0dW5pdHkgPSB0aGlzLmdldE9wcG9ydHVuaXR5KGRhdGEpOwogICAgICBpZiAob3Bwb3J0dW5pdHkpIHsKICAgICAgICB0aGlzLmVtaXQoJ2VudGVyJywgb3Bwb3J0dW5pdHkpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YS5leGNoYW5nZXMuZm9yRWFjaCgoZXhjaGEpID0+IHsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGFNb21lbnQgPSBtb21lbnQoZGF0YS50aW1lKTsK</text>
+        <text encoding="base64">CiAgZ2V0T3Bwb3J0dW5pdHkoZGF0YSkgewoKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvbmcgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
