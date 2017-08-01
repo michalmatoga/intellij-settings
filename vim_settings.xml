@@ -689,6 +689,9 @@
       <file name="/JavaScript Console" timestamp="1501488962719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/svp/yats/encoder/README.md" timestamp="1501579817959">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -829,7 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="44" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/video-worker.js" />
@@ -929,6 +931,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
       <jump line="62" column="3" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/config/default.js" />
       <jump line="69" column="71" filename="$USER_HOME$/projects/svp/yats/encoder/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
