@@ -115,8 +115,8 @@
         <mark key="^" line="26" column="58" />
         <mark key="." line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" timestamp="1501570572626">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" timestamp="1501571998542">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/config/custom-environment-variables.js" timestamp="1501501836184">
         <mark key="[" line="11" column="29" />
@@ -635,6 +635,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/.gitignore" timestamp="1501572066966">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/fixture/thumbnails-message.js" timestamp="1501495505491">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="14" column="0" />
@@ -792,7 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
       <jump line="20" column="28" filename="$USER_HOME$/projects/svp/yats/encoder/test/integrity/validators/schema-validator.js" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/audio.json" />
       <jump line="24" column="12" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
@@ -892,10 +896,11 @@
       <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get('')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly5pZGVhLwo=</text>
       </register>
       <register name="-" type="4">
         <text>get('')</text>
@@ -907,13 +912,13 @@
         <text encoding="base64">ICAgICAgYC10aHJlYWRzICR7Y2ZnLmZmbXBlZy50aHJlYWRzfWAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
+        <text encoding="base64">Ly5pZGVhLwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG9kbyB0aHJlYWRzIGhhbmRsaW5nCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
@@ -922,16 +927,16 @@
         <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
+        <text encoding="base64">ICAgIHN0YXR1c0Rhby5lbnRyeUlkID0gc2FuZGJveC5zdHViKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcmVmaXggPSAnZW5jb2RpbmcnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0ge1N0cmluZ30ga2V5UHJlZml4Cg==</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
