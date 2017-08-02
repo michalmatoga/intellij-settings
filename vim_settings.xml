@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/lib/message-validator.js" timestamp="1501676909455">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/lib/message-validator.js" timestamp="1501676983190">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="39" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/node_modules/svp-yats-encoding-artifacts/artifacts.js" timestamp="1500636968601">
@@ -1050,7 +1049,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2NoZW1hID0gc2NoZW1hOwo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZShtZXNzYWdlKSB7CgogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>validator</text>
@@ -1062,13 +1061,13 @@
         <text encoding="base64">ICAgICJ0cmFuc2NvZGluZ0lkIjogewogICAgICAibWluTGVuZ3RoIjogMSwKICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2NoZW1hID0gc2NoZW1hOwo=</text>
+        <text encoding="base64">ICB2YWxpZGF0ZShtZXNzYWdlKSB7CgogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWp2ID0gCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2NoZW1hID0gc2NoZW1hOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYWp2ID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1077,16 +1076,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwYXJhbXMiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpZCIsCg==</text>
+        <text encoding="base64">ICAgICJwYXJhbXMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0eXBlIjogewogICAgICAiZW51bSI6IFsKICAgICAgICAiYXVkaW8iCiAgICAgIF0sCiAgICAgICJ0eXBlIjogInN0cmluZyIKICAgIH0K</text>
+        <text encoding="base64">ICAgICJpZCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
