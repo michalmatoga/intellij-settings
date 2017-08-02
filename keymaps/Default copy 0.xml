@@ -13,8 +13,14 @@
     <keyboard-shortcut first-keystroke="alt f2" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
