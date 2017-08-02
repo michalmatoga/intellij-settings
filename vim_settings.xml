@@ -158,8 +158,8 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/README.md" timestamp="1501659421953">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/README.md" timestamp="1501666081540">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="26" column="190" />
         <mark key="]" line="26" column="191" />
         <mark key="." line="26" column="191" />
@@ -782,9 +782,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/docker-compose.yml" timestamp="1501660556984">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/docker-compose.yml" timestamp="1501666487171">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="45" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/lib/status.js" timestamp="1500642029989">
@@ -988,7 +988,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" />
       <jump line="38" column="5" filename="$USER_HOME$/projects/svp/yats/distributor/.ecosystem.config.js" />
       <jump line="110" column="3" filename="$USER_HOME$/projects/svp/yats/encoder/test/fixture/integrity/valid-messages.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/projects/svp/yats/publishing-worker/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/README.md" />
       <jump line="32" column="3" filename="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" />
@@ -998,10 +997,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/docs/run.md" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/docker-compose.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/docker-compose.yml" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RG9ja2VyZmlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>docker.vgnett.no/yats-rabbitmq:1.0</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1009,8 +1009,8 @@
       <register name="/" type="4">
         <text>1,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBtb25nbzoKICAgIGltYWdlOiBtb25nbwogICAgcG9ydHM6CiAgICAtICIyNzAxNzoyNzAxNyIK</text>
+      <register name="0" type="4">
+        <text>docker.vgnett.no/yats-rabbitmq:1.0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RG9ja2VyZmlsZQo=</text>
