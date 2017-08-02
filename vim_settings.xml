@@ -113,8 +113,8 @@
         <mark key="^" line="15" column="84" />
         <mark key="." line="15" column="84" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" timestamp="1501676054126">
-        <mark key="'" line="49" column="3" />
+      <file name="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" timestamp="1501676076030">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -357,8 +357,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/validators/schema-validator.js" timestamp="1500556979297">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/svp/yats/encoder/lib/validators/schema-validator.js" timestamp="1501676198900">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="24" />
         <mark key="^" line="11" column="24" />
@@ -962,9 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
-      <jump line="70" column="49" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/smoke/worker/audio-worker.js" />
       <jump line="37" column="22" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/codecs-map.js" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/codecs-map.js" />
       <jump line="35" column="4" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/audio-worker.js" />
@@ -1062,6 +1059,9 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/index.js" />
       <jump line="13" column="105" filename="$USER_HOME$/projects/svp/yats/publishing-worker/config/default.js" />
       <jump line="49" column="3" filename="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/package.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/validators/schema-validator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
