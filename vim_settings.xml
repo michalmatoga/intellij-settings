@@ -272,6 +272,12 @@
         <mark key="." line="118" column="52" />
         <mark key="^" line="118" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exit-scout.js" timestamp="1501690894073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/model/publishing-pair-repository.js" timestamp="1496993578648">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="35" />
@@ -340,12 +346,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501610792124">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="31" column="46" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="49" />
-        <mark key="^" line="31" column="49" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501690759726">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/amqp/consumer.js" timestamp="1498201061938">
         <mark key="[" line="15" column="67" />
@@ -565,13 +570,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/shadow-model.js" timestamp="1501604218056">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/node_modules/svp-yats-fs/lib/adapter/local.js" timestamp="1500382263871">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="7" />
@@ -634,11 +632,12 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501687711190">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="9" column="51" />
-        <mark key="^" line="9" column="51" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501691347153">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/package.json" timestamp="1500454547310">
         <mark key="'" line="29" column="0" />
@@ -730,12 +729,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501690303922">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501690718175">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="57" />
+        <mark key="." line="33" column="56" />
+        <mark key="^" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/yats-client.js" timestamp="1499244509616">
         <mark key="[" line="5" column="24" />
@@ -1001,11 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="20" filename="$USER_HOME$/projects/svp/yats/encoder/index.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/projects/svp/yats/encoder/index.js" />
-      <jump line="41" column="16" filename="$USER_HOME$/projects/svp/yats/encoder/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker-factory.js" />
       <jump line="72" column="14" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="28" column="5" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
@@ -1101,46 +1095,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/audio.json" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/config/schemas/message-schema.json" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-worker/lib/message-validator.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="33" column="3" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="17" column="14" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>candidatePair.short.bestVal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgQW1xcE1hbmFnZXIgPSByZXF1aXJlKCcuL2xpYi9hbXFwLW1hbmFnZXInKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>amqpChannel</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
       <register name="0" type="4">
-        <text>candidatePair.short.bestVal</text>
+        <text encoding="base64">LmNvbnN1bWUoY29uZmlnLmNvbnN1bWVyLnF1ZXVlLCAobXNnKSA9PiB7CiAgICBleGVjdXRvci5jaGVjayhKU09OLnBhcnNlKG1zZy5jb250ZW50KSk7CiAgICBhbXFwQ2hhbm5lbC5hY2sobXNnKTsKICB9KTsKICBsb2dnZXIuaW5mbygnU3dlZW5leSBzdGFydGVkJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNwcmVhZCA9IAo=</text>
+        <text encoding="base64">Y29uc3QgQW1xcE1hbmFnZXIgPSByZXF1aXJlKCcuL2xpYi9hbXFwLW1hbmFnZXInKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZShtZXNzYWdlKSB7CgogIH0K</text>
+        <text encoding="base64">CmNvbnN0IGFtcXBNYW5hZ2VyID0gbmV3IEFtcXBNYW5hZ2VyKCk7CgphbXFwTWFuYWdlci5vbignY29ubmVjdCcsIChhbXFwQ2hhbm5lbCkgPT4gewogIGFtcXBDaGFubmVsLmNvbnN1bWUoY29uZmlnLmNvbnN1bWVyLnF1ZXVlLCAobXNnKSA9PiB7CiAgICBleGVjdXRvci5jaGVjayhKU09OLnBhcnNlKG1zZy5jb250ZW50KSk7CiAgICBhbXFwQ2hhbm5lbC5hY2sobXNnKTsKICB9KTsKICBsb2dnZXIuaW5mbygnU3dlZW5leSBzdGFydGVkJyk7Cn0pOwphbXFwTWFuYWdlci5pbml0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2NoZW1hID0gc2NoZW1hOwo=</text>
+        <text encoding="base64">LyogdG9kbyBlc3RhYmxpc2ggZW50cnkvZXhpdCBwb29scyBiYXNlZCBvbiBzdGF0ZSBvZiBleGNoYW5nZXMgKi8KY29uc3QgZW50cnlTY291dFBvb2wgPSBbbmV3IEVudHJ5U2NvdXQoKV07CmNvbnN0IGV4aXRTY291dFBvb2wgPSBbXTsKY29uc3QgZXhlY3V0b3IgPSBuZXcgRXhlY3V0b3IoZW50cnlTY291dFBvb2wsIGV4aXRTY291dFBvb2wpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWp2ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3Bwb3J0dW5pdHlUaHJlc2hvbGQgPSAyOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vdXRpbHMvbG9nZ2VyJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpc09wcG9ydHVuaXR5KGNhbmRpZGF0ZVBhaXIpIHsKICAgIGlmICghY2FuZGlkYXRlUGFpci5zaG9ydC5iZXN0VmFsIHx8ICFjYW5kaWRhdGVQYWlyLmxvbmcuYmVzdFZhbCkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CiAgICBjb25zdCBzcHJlYWQgPSBjYW5kaWRhdGVQYWlyLnNob3J0LmJlc3RWYWwgLSBjYW5kaWRhdGVQYWlyLmxvbmcuYmVzdFZhbDsKICAgIGNvbnN0IHNwcmVhZFBlcmNlbnQgPSAoc3ByZWFkICogMTAwKSAvIGNhbmRpZGF0ZVBhaXIuc2hvcnQuYmVzdFZhbDsKICAgIGxvZ2dlci5kZWJ1ZyhgU3ByZWFkOiAke3NwcmVhZH0sICR7c3ByZWFkUGVyY2VudH0lYCk7CiAgICByZXR1cm4gb3Bwb3J0dW5pdHlUaHJlc2hvbGQgPCBzcHJlYWRQZXJjZW50OwogIH0KCiAgYmVzdFNob3J0KG1hcmtldERlcHRocykgewogICAgY29uc3Qgc2hvcnRhYmxlRXhjaGFuZ2VzID0gdGhpcy5leGNoYW5nZXMuZmlsdGVyKGVudHJ5ID0+IGVudHJ5LnNob3J0YWJsZSk7CiAgICBpZiAoIXNob3J0YWJsZUV4Y2hhbmdlcy5sZW5ndGgpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CiAgICBsZXQgYmVzdFZhbCA9IG51bGw7CiAgICBsZXQgYmVzdEV4Y2hhbmdlID0gbnVsbDsKICAgIHNob3J0YWJsZUV4Y2hhbmdlcy5mb3JFYWNoKChleGNoYW5nZSkgPT4gewogICAgICBjb25zdCBleGNoYW5nZURhdGEgPSBtYXJrZXREZXB0aHMuZXhjaGFuZ2VzLmZpbHRlcihlbnRyeSA9PiBlbnRyeS5pZCA9PT0gZXhjaGFuZ2UuaWQpWzBdOwogICAgICBpZiAoZXhjaGFuZ2VEYXRhKSB7CiAgICAgICAgaWYgKGJlc3RWYWwgPT09IG51bGwgfHwgYmVzdFZhbCA8IGV4Y2hhbmdlRGF0YS5iaWRzWzBdWzBdKSB7CiAgICAgICAgICBiZXN0VmFsID0gZXhjaGFuZ2VEYXRhLmJpZHNbMF1bMF07CiAgICAgICAgICBiZXN0RXhjaGFuZ2UgPSBleGNoYW5nZTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pOwogICAgbG9nZ2VyLmRlYnVnKGBiZXN0IHNob3J0IGJpZDogJHtiZXN0VmFsfSBAICR7YmVzdEV4Y2hhbmdlLmlkfWApOwogICAgcmV0dXJuIHsgYmVzdFZhbCwgYmVzdEV4Y2hhbmdlIH07CiAgfQoKICBiZXN0TG9uZyhkYXRhKSB7CiAgICBsZXQgYmVzdFZhbCA9IG51bGw7CiAgICBsZXQgYmVzdEV4Y2hhbmdlID0gbnVsbDsKICAgIHRoaXMuZXhjaGFuZ2VzLmZvckVhY2goKGV4Y2hhbmdlKSA9PiB7CiAgICAgIGNvbnN0IGV4Y2hhbmdlRGF0YSA9IGRhdGEuZXhjaGFuZ2VzLmZpbHRlcihlbnRyeSA9PiBlbnRyeS5pZCA9PT0gZXhjaGFuZ2UuaWQpWzBdOwogICAgICBpZiAoZXhjaGFuZ2VEYXRhKSB7CiAgICAgICAgaWYgKGJlc3RWYWwgPT09IG51bGwgfHwgYmVzdFZhbCA+IGV4Y2hhbmdlRGF0YS5hc2tzWzBdWzBdKSB7CiAgICAgICAgICBiZXN0VmFsID0gZXhjaGFuZ2VEYXRhLmFza3NbMF1bMF07CiAgICAgICAgICBiZXN0RXhjaGFuZ2UgPSBleGNoYW5nZTsKICAgICAgICB9CiAgICAgIH0KICAgIH0pOwogICAgbG9nZ2VyLmRlYnVnKGBiZXN0IGxvbmcgYXNrOiAke2Jlc3RWYWx9IEAgJHtiZXN0RXhjaGFuZ2UuaWR9YCk7CiAgICByZXR1cm4geyBiZXN0VmFsLCBiZXN0RXhjaGFuZ2UgfTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
