@@ -516,9 +516,9 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501608622202">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="51" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501687711190">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="41" />
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
@@ -611,11 +611,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501685904399">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="53" />
-        <mark key="." line="32" column="53" />
-        <mark key="^" line="32" column="53" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501687960360">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/thoth/lib/amqp-manager.js" timestamp="1501602301543">
         <mark key="'" line="0" column="0" />
@@ -839,9 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="37" column="2" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/codecs-map.js" />
@@ -939,48 +937,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/shadow-model.js" />
       <jump line="11" column="3" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" />
       <jump line="27" column="2" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>bids</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>bids</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCiAgICB0aGlzLnB1c2gobmV3IEV4aXRTY291dChleGNoYW5nZVBhaXIpKTsK</text>
+        <text encoding="base64">ICBiZXN0U2hvcnQoZGF0YSkgewogICAgY29uc3Qgc2hvcnRhYmxlRXhjaGFuZ2VzID0gdGhpcy5leGNoYW5nZXMuZmlsdGVyKGVudHJ5ID0+IGVudHJ5LnNob3J0YWJsZSk7CiAgICBpZiAoIXNob3J0YWJsZUV4Y2hhbmdlcy5sZW5ndGgpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CiAgICBsZXQgYmVzdFZhbCA9IG51bGw7CiAgICBsZXQgYmVzdEV4Y2hhbmdlID0gbnVsbDsKICAgIHNob3J0YWJsZUV4Y2hhbmdlcy5mb3JFYWNoKChleGNoYW5nZSkgPT4gewogICAgICBjb25zdCBleGNoYW5nZURhdGEgPSBkYXRhLmV4Y2hhbmdlcy5maWx0ZXIoZW50cnkgPT4gZW50cnkuaWQgPT09IGV4Y2hhbmdlLmlkKVswXTsKICAgICAgaWYgKGV4Y2hhbmdlRGF0YSkgewogICAgICAgIGlmIChiZXN0VmFsID09PSBudWxsIHx8IGJlc3RWYWwgPCBleGNoYW5nZURhdGEuYmlkc1swXVswXSkgewogICAgICAgICAgYmVzdFZhbCA9IGV4Y2hhbmdlRGF0YS5iaWRzWzBdWzBdOwogICAgICAgICAgYmVzdEV4Y2hhbmdlID0gZXhjaGFuZ2U7CiAgICAgICAgfQogICAgICB9CiAgICB9KTsKICAgIGxvZ2dlci5kZWJ1ZyhgYmVzdCBzaG9ydCBiaWQ6ICR7YmVzdFZhbH0gQCAke2Jlc3RFeGNoYW5nZS5pZH1gKTsKICAgIHJldHVybiBiZXN0RXhjaGFuZ2U7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNob3J0YWJsZUV4Y2hhbmdlcyA9IHRoaXMuZXhjaGFuZ2VzLmZpbHRlcihlbnRyeSA9PiBlbnRyeS5zaG9ydGFibGUpOwogICAgaWYgKCFzaG9ydGFibGVFeGNoYW5nZXMubGVuZ3RoKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiZXN0IHNob3J0Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJlc3QgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJlc3QgPQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxldCBiZXN0ID0gbnVsbDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
         return 
       }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGF0YS5leGNoYW5nZXMuZm9yRWFjaCgoZXhjaGEpID0+IHsKICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgZ2V0T3Bwb3J0dW5pdHkoZGF0YSkgewoKICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvbmcgPQo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
