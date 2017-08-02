@@ -77,6 +77,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="69" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-collection.js" timestamp="1501695862609">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="95" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/image-worker.js" timestamp="1501504452107">
         <mark key="'" line="23" column="9" />
         <mark key="[" line="24" column="0" />
@@ -241,11 +245,11 @@
         <mark key="^" line="3155" column="70" />
         <mark key="." line="3155" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501605350182">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501695544106">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="68" />
+        <mark key="^" line="14" column="68" />
+        <mark key="." line="14" column="68" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/index.js" timestamp="1500451887367">
         <mark key="[" line="7" column="23" />
@@ -272,11 +276,12 @@
         <mark key="." line="118" column="52" />
         <mark key="^" line="118" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exit-scout.js" timestamp="1501690894073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exit-scout.js" timestamp="1501696102087">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/model/publishing-pair-repository.js" timestamp="1496993578648">
         <mark key="[" line="11" column="32" />
@@ -504,7 +509,7 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1501674424246">
+      <file name="/fragment.js" timestamp="1501696866081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/asset-creation.js" timestamp="1496912476696">
@@ -564,11 +569,11 @@
         <mark key="." line="46" column="68" />
         <mark key="^" line="46" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/config/default.js" timestamp="1501602015004">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/config/default.js" timestamp="1501696874397">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/shadow-model.js" timestamp="1501604218056">
         <mark key="'" line="0" column="0" />
@@ -639,11 +644,12 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501694354035">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="48" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" timestamp="1501696681834">
+        <mark key="'" line="12" column="58" />
+        <mark key="[" line="19" column="63" />
+        <mark key="]" line="19" column="78" />
+        <mark key="." line="19" column="78" />
+        <mark key="^" line="19" column="78" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/package.json" timestamp="1500454547310">
         <mark key="'" line="29" column="0" />
@@ -735,12 +741,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501692384799">
-        <mark key="'" line="13" column="14" />
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501696755321">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="51" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/yats-client.js" timestamp="1499244509616">
         <mark key="[" line="5" column="24" />
@@ -841,7 +846,7 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="156" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501673872887">
+      <file name="/JavaScript Console" timestamp="1501696697836">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
@@ -890,7 +895,7 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501692194393">
+      <file name="/Dummy.txt" timestamp="1501696882928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -1011,10 +1016,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="14" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
-      <jump line="28" column="5" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
-      <jump line="90" column="8" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="36" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/config/schemas/artifacts/thumbnails.json" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/config/default.js" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/svp/yats/encoder/.ecosystem.config.js" />
@@ -1111,46 +1112,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
       <jump line="17" column="14" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" />
+      <jump line="29" column="6" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="7" column="20" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exit-scout.js" />
+      <jump line="10" column="58" filename="$USER_HOME$/projects/mad-sweeney/sweeney/index.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new ExitScout(exchangePair)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>new ExitScout(exchangePair)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29sbCA9IEZhc3RTZXQoWzEsIDIsIDNdKTsK</text>
+      <register name="0" type="4">
+        <text>logger.warn(err)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCiAgICB0aGlzLmxpc3RlblRvKG5ldyBFeGl0U2NvdXQoZXhjaGFuZ2VQYWlyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>{
+        console.log(err);
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZXhpdFNjb3V0cy5hZGQKICAgIHRoaXMubGlzdGVuVG8obmV3IEV4aXRTY291dChleGNoYW5nZVBhaXIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZXhpdFNjb3V0cy5hZGQKICAgIHRoaXMubGlzdGVuVG8obmV3IEV4aXRTY291dChleGNoYW5nZVBhaXIpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBleGl0U2NvdXQ7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5leGl0U2NvdXRzLmFkZChzY291dCk7Cg==</text>
+        <text encoding="base64">Y2xhc3MgRXhjaGFuZ2UgewogIGNvbnN0cnVjdG9yKGlkLCBtYXJrZXRzLCBwb3NpdGlvbnMpIHsKICAgIHRoaXMuaWQgPSBpZDsKICAgIHRoaXMubWFya2V0cyA9IG1hcmtldHM7CiAgICB0aGlzLnBvc2l0aW9ucyA9IHBvc2l0aW9uczsKICB9CgogIGdldElkKCkgewogICAgcmV0dXJuIHRoaXMuaWQ7CiAgfQoKICBwb3NpdGlvbkF2YWlsYWJsZShwb3NpdGlvbiwgbWFya2V0KSB7CiAgICByZXR1cm4gdGhpcy5wb3NpdGlvbnMuaW5jbHVkZXMocG9zaXRpb24pICYmIHRoaXMubWFya2V0cy5pbmNsdWRlcyhtYXJrZXQpOwogIH0KfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbnRyeVNjb3V0cy5hZGQoc2NvdXQpOwo=</text>
+        <text encoding="base64">Y29uc3QgZXhjaGFuZ2VDb2xsZWN0aW9uID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29sbC5jb25jYXQoY29sbDIpLmZvckVhY2goKGVsKSA9PiB7CiAgY29uc29sZS5sb2coZWwpOwp9KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRmFzdFNldCA9IHJlcXVpcmUoJ2NvbGxlY3Rpb25zL2Zhc3Qtc2V0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
