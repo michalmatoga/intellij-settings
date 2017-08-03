@@ -226,12 +226,12 @@
         <mark key="^" line="3155" column="70" />
         <mark key="." line="3155" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501775356568">
-        <mark key="'" line="24" column="44" />
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="21" />
-        <mark key="^" line="25" column="21" />
-        <mark key="." line="25" column="21" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501778672019">
+        <mark key="'" line="25" column="44" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/index.js" timestamp="1500451887367">
         <mark key="[" line="7" column="23" />
@@ -321,11 +321,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501775407524">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="56" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501777634151">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="27" column="55" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/amqp/consumer.js" timestamp="1498201061938">
         <mark key="[" line="15" column="67" />
@@ -676,11 +676,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501773771677">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" timestamp="1501777133810">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="21" column="106" />
+        <mark key="]" line="21" column="113" />
+        <mark key="." line="21" column="113" />
+        <mark key="^" line="21" column="113" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/yats-client.js" timestamp="1499244509616">
         <mark key="[" line="5" column="24" />
@@ -769,7 +770,7 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="156" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501774160592">
+      <file name="/JavaScript Console" timestamp="1501777567842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
@@ -932,9 +933,14 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501779035356">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="72" filename="$USER_HOME$/projects/svp/yats/encoder/test/unit/lib/worker/video-worker.js" />
       <jump line="118" column="54" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" />
       <jump line="22" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" />
       <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
@@ -1034,46 +1040,47 @@
       <jump line="16" column="8" filename="$USER_HOME$/projects/mad-sweeney/sweeney/msg/entry.json" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/msg/entry.json" />
       <jump line="22" column="44" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZpYXQ=</text>
       </register>
       <register name="-" type="4">
-        <text>.ass</text>
+        <text encoding="base64">IGZpYXQ=</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2hhbmdlUGFpci5zaG9ydC5lbnRlcignc2hvcnQnKTsK</text>
+        <text encoding="base64">ICBsb25nKG1hcmtldCwgcmF0ZSwgYmFsYW5jZXMpIHsKICAgIAogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gYWN0dWFsbHkgRU5URVIgcG9zaXRpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnTm8gb3Bwb3J0dW5pdHknKTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiaWRzIjogWwogICAgICBbNzksIDFdLAogICAgICBbNzgsIDFdLAogICAgICBbNzcsIDFdCiAgICBdLAogICAgImFza3MiOiBbCiAgICAgIFs4MCwgMV0sCiAgICAgIFs4MSwgMV0sCiAgICAgIFs4MiwgMV0KICAgIF0K</text>
+        <text encoding="base64">ICBwb3NpdGlvbkF2YWlsYWJsZShwb3NpdGlvbiwgbWFya2V0KSB7CiAgICByZXR1cm4gdGhpcy5wb3NpdGlvbnMuaW5jbHVkZXMocG9zaXRpb24pICYmIHRoaXMubWFya2V0cy5pbmNsdWRlcyhtYXJrZXQpOwogIH0KCiAgYXN5bmMgZW50ZXIocG9zaXRpb24sIG1hcmtldCwgcmF0ZSkgewogICAgYXNzZXJ0KHRoaXMucG9zaXRpb25zLmluY2x1ZGVzKHBvc2l0aW9uKSk7CiAgICBhc3NlcnQodGhpcy5tYXJrZXRzLmluY2x1ZGVzKG1hcmtldCkpOwogICAgYXNzZXJ0KHRoaXMuYmFsYW5jZXMgPiBtaW5PcmRlcik7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB0aGlzLmNsaWVudFtwb3NpdGlvbl0obWFya2V0LCByYXRlLCB0aGlzLmJhbGFuY2VzKTsKICAgIHRoaXMucmViYWxhbmNlKHJlc3VsdCk7CiAgfQoKICByZWJhbGFuY2UoeyBiYWxhbmNlcyB9KSB7CiAgICB0aGlzLmJhbGFuY2VzID0gYmFsYW5jZXM7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJhc2tzIjogWwogICAgICBbMTAwLCAxXSwKICAgICAgWzEwMSwgMV0sCiAgICAgIFsxMDIsIDFdCiAgICBdLAogICAgImJpZHMiOiBbCiAgICAgIFs5OSwgMV0sCiAgICAgIFs5OCwgMV0sCiAgICAgIFs5NywgMV0KICAgIF0K</text>
+        <text encoding="base64">ICBnZXRJZCgpIHsKICAgIHJldHVybiB0aGlzLmlkOwogIH0KCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHRoaXMuaWQgPSBpZDsKICAgIHRoaXMubWFya2V0cyA9IG1hcmtldHM7CiAgICB0aGlzLnBvc2l0aW9ucyA9IHBvc2l0aW9uczsKICAgIHRoaXMuYmFsYW5jZXMgPSB7CiAgICAgIEJUQzogMCwKICAgICAgUExOOiAxMDAsCiAgICB9Ow==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgWzk3OTksIDIuNDk5MjQwNjhdLAogICAgICBbOTc5OS4wMSwgMC4wMDNdLAogICAgICBbOTc5OS45OSwgMC4wNDI5ODk4NF0K</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgWzk3OTYuNSwgMC4xMDcxODE1NV0sCiAgICAgIFs5Nzk1LjM1LCAwLjA3MzIxNTJdLAogICAgICBbOTc5NC4zNSwgMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
