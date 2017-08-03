@@ -18,7 +18,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="require" value="const $module$ = require('$lcmodule$');&#10;$END$" description="require a node.js module" toReformat="false" toShortenFQNames="true">
+  <template name="req" value="const $module$ = require('$lcmodule$');&#10;$END$" description="require a node.js module" toReformat="false" toShortenFQNames="true">
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="lcmodule" expression="lowercaseAndDash(module)" defaultValue="" alwaysStopAt="true" />
     <context>
