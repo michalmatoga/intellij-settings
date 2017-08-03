@@ -63,6 +63,11 @@
         <mark key="." line="19" column="90" />
         <mark key="^" line="19" column="90" />
       </file>
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/package.json" timestamp="1501781059668">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/lib/field-validator/source.js" timestamp="1498639859984">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -226,12 +231,12 @@
         <mark key="^" line="3155" column="70" />
         <mark key="." line="3155" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501778672019">
-        <mark key="'" line="25" column="44" />
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="73" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="34" column="28" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501780548597">
+        <mark key="'" line="34" column="3" />
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="80" />
+        <mark key="^" line="33" column="80" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/index.js" timestamp="1500451887367">
         <mark key="[" line="7" column="23" />
@@ -321,11 +326,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501777634151">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="55" />
-        <mark key="^" line="27" column="55" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501780431015">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/amqp/consumer.js" timestamp="1498201061938">
         <mark key="[" line="15" column="67" />
@@ -770,7 +775,7 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="156" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501777567842">
+      <file name="/JavaScript Console" timestamp="1501780386123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
@@ -933,15 +938,14 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501779035356">
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501781110990">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+        <mark key="." line="2" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="54" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/worker-template.js" />
       <jump line="22" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" />
       <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
@@ -1041,13 +1045,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/msg/entry.json" />
       <jump line="22" column="44" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
+      <jump line="31" column="3" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGZpYXQ=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZpYXQ=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
@@ -1056,34 +1061,34 @@
         <text encoding="base64">ICBsb25nKG1hcmtldCwgcmF0ZSwgYmFsYW5jZXMpIHsKICAgIAogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhY2NvdW50aW5nLWpzIjogIl4xLjEuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCh0aGlzLmJhbGFuY2VzID4gbWluT3JkZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50ID0gbmV3IEV4Y2hhbmdlQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbkF2YWlsYWJsZShwb3NpdGlvbiwgbWFya2V0KSB7CiAgICByZXR1cm4gdGhpcy5wb3NpdGlvbnMuaW5jbHVkZXMocG9zaXRpb24pICYmIHRoaXMubWFya2V0cy5pbmNsdWRlcyhtYXJrZXQpOwogIH0KCiAgYXN5bmMgZW50ZXIocG9zaXRpb24sIG1hcmtldCwgcmF0ZSkgewogICAgYXNzZXJ0KHRoaXMucG9zaXRpb25zLmluY2x1ZGVzKHBvc2l0aW9uKSk7CiAgICBhc3NlcnQodGhpcy5tYXJrZXRzLmluY2x1ZGVzKG1hcmtldCkpOwogICAgYXNzZXJ0KHRoaXMuYmFsYW5jZXMgPiBtaW5PcmRlcik7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB0aGlzLmNsaWVudFtwb3NpdGlvbl0obWFya2V0LCByYXRlLCB0aGlzLmJhbGFuY2VzKTsKICAgIHRoaXMucmViYWxhbmNlKHJlc3VsdCk7CiAgfQoKICByZWJhbGFuY2UoeyBiYWxhbmNlcyB9KSB7CiAgICB0aGlzLmJhbGFuY2VzID0gYmFsYW5jZXM7CiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBnZXRJZCgpIHsKICAgIHJldHVybiB0aGlzLmlkOwogIH0KCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHRoaXMuaWQgPSBpZDsKICAgIHRoaXMubWFya2V0cyA9IG1hcmtldHM7CiAgICB0aGlzLnBvc2l0aW9ucyA9IHBvc2l0aW9uczsKICAgIHRoaXMuYmFsYW5jZXMgPSB7CiAgICAgIEJUQzogMCwKICAgICAgUExOOiAxMDAsCiAgICB9Ow==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzaG9ydChtYXJrZXQsIHJhdGUsIGJhbGFuY2VzKSB7CgogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>119</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
@@ -1119,8 +1124,6 @@
         <entry>1,</entry>
       </history-search>
       <history-cmd>
-        <entry>21</entry>
-        <entry>40</entry>
         <entry>22</entry>
         <entry>110</entry>
         <entry>240</entry>
@@ -1139,6 +1142,8 @@
         <entry>16</entry>
         <entry>8</entry>
         <entry>119</entry>
+        <entry>28</entry>
+        <entry>32</entry>
       </history-cmd>
       <history-expr />
       <history-input />
