@@ -231,12 +231,12 @@
         <mark key="^" line="3155" column="70" />
         <mark key="." line="3155" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501780548597">
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" timestamp="1501781153004">
         <mark key="'" line="34" column="3" />
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="33" column="80" />
-        <mark key="." line="33" column="80" />
-        <mark key="^" line="33" column="80" />
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="33" column="58" />
+        <mark key="." line="33" column="58" />
+        <mark key="^" line="33" column="58" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/progress/index.js" timestamp="1500451887367">
         <mark key="[" line="7" column="23" />
@@ -326,11 +326,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501780431015">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/executor.js" timestamp="1501782021617">
+        <mark key="[" line="26" column="81" />
+        <mark key="]" line="26" column="85" />
+        <mark key="." line="26" column="85" />
+        <mark key="^" line="26" column="85" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/encoder/test/amqp/consumer.js" timestamp="1498201061938">
         <mark key="[" line="15" column="67" />
@@ -454,7 +454,7 @@
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1501696866081">
+      <file name="/fragment.js" timestamp="1501782470525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/test/smoke/asset-creation.js" timestamp="1496912476696">
@@ -775,7 +775,7 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="156" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501780386123">
+      <file name="/JavaScript Console" timestamp="1501782380392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/svp/yats/publishing-gateway/lib/svp-asset-creator.js" timestamp="1497260700935">
@@ -824,7 +824,7 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501696882928">
+      <file name="/Dummy.txt" timestamp="1501782771160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
@@ -938,11 +938,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501781110990">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-        <mark key="." line="2" column="45" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501782852405">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -1049,43 +1049,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ICsgKGFtb3VudCAqIHJhdGUpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICsgKGFtb3VudCAqIHJhdGUpOw==</text>
       </register>
       <register name="/" type="4">
         <text>1,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBsb25nKG1hcmtldCwgcmF0ZSwgYmFsYW5jZXMpIHsKICAgIAogIH0K</text>
+      <register name="0" type="4">
+        <text>'long', exchangePair.market, exchangePair.long.rate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhY2NvdW50aW5nLWpzIjogIl4xLjEuMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCh0aGlzLmJhbGFuY2VzID4gbWluT3JkZXIpOwo=</text>
+        <text encoding="base64">Y29uc3QgdG9GaXhlZCA9IHJlcXVpcmUoJ2FjY291bnRpbmcnKS50b0ZpeGVkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2xpZW50ID0gbmV3IEV4Y2hhbmdlQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbGV2ZXIgPSAxLjU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzaG9ydChtYXJrZXQsIHJhdGUsIGJhbGFuY2VzKSB7CgogIH0K</text>
+        <text encoding="base64">ICAgICJhY2NvdW50aW5nLWpzIjogIl4xLjEuMSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCh0aGlzLmJhbGFuY2VzID4gbWluT3JkZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2xpZW50ID0gbmV3IEV4Y2hhbmdlQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzaG9ydChtYXJrZXQsIHJhdGUsIGJhbGFuY2VzKSB7CgogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
