@@ -938,15 +938,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501782852405">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
+      <file name="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" timestamp="1501861040478">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="29" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/video-worker.js" />
       <jump line="84" column="52" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/thumbnails-worker.js" />
       <jump line="25" column="15" filename="$USER_HOME$/projects/svp/yats/encoder/lib/worker/audio-worker.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/svp/yats/publishing-gateway/package.json" />
@@ -1046,6 +1046,7 @@
       <jump line="22" column="44" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/entry-scout.js" />
       <jump line="31" column="3" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/projects/mad-sweeney/sweeney/lib/exchange-client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
